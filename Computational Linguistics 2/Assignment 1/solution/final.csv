@@ -1,0 +1,888 @@
+POS|word|tags|TagsMeaning|field2
+MC1|One|N1|N1|Numbers
+NNU1|dollar|I1|I1|Money generally
+CC|and|Z5|Z5|Grammatical bin
+MC|eighty-seven|N1 T1.2 T3 T1.3 N3.2|N1|Numbers
+NNU2|cents|I1|I1|Money generally
+NNU2|cents|I1|I1.1|Money: Affluence
+NNU2|cents|I1|I1.2|Money: Debts
+NNU2|cents|I1|I1.3|Money: Price
+DD1|That|Z8 Z5|Z8|Pronouns etc.
+VBDZ|was|A3+ Z5|A3|Being
+DB|all|N5.1+|N5.1|Entirety; maximum
+CC|And|Z5|Z5|Grammatical bin
+MC|sixty|N1 T3|N1|Numbers
+NNU2|cents|I1|I1|Money generally
+IO|of|Z5|Z5|Grammatical bin
+PPH1|it|Z8|Z8|Pronouns etc.
+VBDZ|was|A3+ Z5|A3|Being
+II|in|Z5|Z5|Grammatical bin
+NNU2|pennies|I1|I1|Money generally
+NNU2|pennies|I1|I1.1|Money: Affluence
+NNU2|pennies|I1|I1.2|Money: Debts
+NNU2|pennies|I1|I1.3|Money: Price
+NP2|Pennies|I1|I1|Money generally
+NP2|Pennies|I1|I1.1|Money: Affluence
+NP2|Pennies|I1|I1.2|Money: Debts
+NP2|Pennies|I1|I1.3|Money: Price
+VVD|saved|I1.1 B3 A9+ S8+ A1.9 K5.1 S9|I1|Money generally
+VVD|saved|I1.1 B3 A9+ S8+ A1.9 K5.1 S9|I1.1|Money: Affluence
+VVD|saved|I1.1 B3 A9+ S8+ A1.9 K5.1 S9|I1.2|Money: Debts
+VVD|saved|I1.1 B3 A9+ S8+ A1.9 K5.1 S9|I1.3|Money: Price
+MC1|one|N1 T3 T1.2|N1|Numbers
+CC|and|Z5|Z5|Grammatical bin
+MC|two|N1 T3 T1.2|N1|Numbers
+II|at|T1.1.2[i1.3.1 Z5|T1|Time
+II|at|T1.1.2[i1.3.1 Z5|T1.1|Time: General
+II|at|T1.1.2[i1.3.1 Z5|T1.1.1|Time: General: Past
+II|at|T1.1.2[i1.3.1 Z5|T1.1.2|Time: General: Present; simultaneous
+II|at|T1.1.2[i1.3.1 Z5|T1.1.3|Time: General: Future
+II|at|T1.1.2[i1.3.1 Z5|T1.2|Time: Momentary
+II|at|T1.1.2[i1.3.1 Z5|T1.3|Time: Period
+AT1|a|T1.1.2[i1.3.2 Z5|T1|Time
+AT1|a|T1.1.2[i1.3.2 Z5|T1.1|Time: General
+AT1|a|T1.1.2[i1.3.2 Z5|T1.1.1|Time: General: Past
+AT1|a|T1.1.2[i1.3.2 Z5|T1.1.2|Time: General: Present; simultaneous
+AT1|a|T1.1.2[i1.3.2 Z5|T1.1.3|Time: General: Future
+AT1|a|T1.1.2[i1.3.2 Z5|T1.2|Time: Momentary
+AT1|a|T1.1.2[i1.3.2 Z5|T1.3|Time: Period
+NNT1|time|T1.1.2[i1.3.3 T1 T1.2 T1.3 T1.1.2 N6 N1 K2 G2.1@|T1|Time
+NNT1|time|T1.1.2[i1.3.3 T1 T1.2 T1.3 T1.1.2 N6 N1 K2 G2.1@|T1.1|Time: General
+NNT1|time|T1.1.2[i1.3.3 T1 T1.2 T1.3 T1.1.2 N6 N1 K2 G2.1@|T1.1.1|Time: General: Past
+NNT1|time|T1.1.2[i1.3.3 T1 T1.2 T1.3 T1.1.2 N6 N1 K2 G2.1@|T1.1.2|Time: General: Present; simultaneous
+NNT1|time|T1.1.2[i1.3.3 T1 T1.2 T1.3 T1.1.2 N6 N1 K2 G2.1@|T1.1.3|Time: General: Future
+NNT1|time|T1.1.2[i1.3.3 T1 T1.2 T1.3 T1.1.2 N6 N1 K2 G2.1@|T1.2|Time: Momentary
+NNT1|time|T1.1.2[i1.3.3 T1 T1.2 T1.3 T1.1.2 N6 N1 K2 G2.1@|T1.3|Time: Period
+II|by|Z5|Z5|Grammatical bin
+VVG|bulldozing|A1.1.2|A1|GENERAL AND ABSTRACT TERMS
+VVG|bulldozing|A1.1.2|A1.1.1|General actions, making etc.
+VVG|bulldozing|A1.1.2|A1.1.2|Damaging and destroying
+VVG|bulldozing|A1.1.2|A1.2|Suitability
+VVG|bulldozing|A1.1.2|A1.3|Caution
+VVG|bulldozing|A1.1.2|A1.4|Chance, luck
+VVG|bulldozing|A1.1.2|A1.5|Use
+VVG|bulldozing|A1.1.2|A1.5.1|Using
+VVG|bulldozing|A1.1.2|A1.5.2|Usefulness
+VVG|bulldozing|A1.1.2|A1.6|Physical/mental
+VVG|bulldozing|A1.1.2|A1.7|Constraint
+VVG|bulldozing|A1.1.2|A1.8|Inclusion/Exclusion
+VVG|bulldozing|A1.1.2|A1.9|Avoiding
+VVG|bulldozing|A1.1.2|A10|Open/closed; Hiding/Hidden; Finding; Showing
+VVG|bulldozing|A1.1.2|A11|Importance
+VVG|bulldozing|A1.1.2|A11.1|Importance: Important
+VVG|bulldozing|A1.1.2|A11.2|Importance: Noticeability
+VVG|bulldozing|A1.1.2|A12|Easy/difficult
+VVG|bulldozing|A1.1.2|A13|Degree
+VVG|bulldozing|A1.1.2|A13.1|Degree: Non-specific
+VVG|bulldozing|A1.1.2|A13.2|Degree: Maximizers
+VVG|bulldozing|A1.1.2|A13.3|Degree: Boosters
+VVG|bulldozing|A1.1.2|A13.4|Degree: Approximators
+VVG|bulldozing|A1.1.2|A13.5|Degree: Compromisers
+VVG|bulldozing|A1.1.2|A13.6|Degree: Diminishers
+VVG|bulldozing|A1.1.2|A13.7|Degree: Minimizers
+VVG|bulldozing|A1.1.2|A14|Exclusivizers/particularizers
+VVG|bulldozing|A1.1.2|A15|Safety/Danger
+AT|the|Z5|Z5|Grammatical bin
+NN1|grocer|F1/S2mf|F1|Food
+CC|and|Z5|Z5|Grammatical bin
+AT|the|Z5|Z5|Grammatical bin
+NN1|vegetable|F1 X9.1-/S2mf|F1|Food
+NN1|man|S2.2m|S2|People
+NN1|man|S2.2m|S2.1|People:- Female
+NN1|man|S2.2m|S2.2|People:- Male
+CC|and|Z5|Z5|Grammatical bin
+AT|the|Z5|Z5|Grammatical bin
+NN1|butcher|F1/S2mf L1-/S2mf|F1|Food
+CS|until|Z5|Z5|Grammatical bin
+PN1|one|Z8|Z8|Pronouns etc.
+GE|'s|Z5|Z5|Grammatical bin
+NN2|cheeks|B1 S1.2.4-|B1|Anatomy and physiology
+VVN|burned|O4.6+ A1.5.1|O4|Physical attributes
+VVN|burned|O4.6+ A1.5.1|O4.1|General appearance and physical properties
+VVN|burned|O4.6+ A1.5.1|O4.2|Judgement of appearance (pretty etc.)
+VVN|burned|O4.6+ A1.5.1|O4.3|Colour and colour patterns
+VVN|burned|O4.6+ A1.5.1|O4.4|Shape
+VVN|burned|O4.6+ A1.5.1|O4.5|Texture
+VVN|burned|O4.6+ A1.5.1|O4.6|Temperature
+IW|with|Z5|Z5|Grammatical bin
+AT|the|Z5|Z5|Grammatical bin
+JJ|silent|X3.2- A10-|X3|Sensory
+JJ|silent|X3.2- A10-|X3.1|Sensory:- Taste
+JJ|silent|X3.2- A10-|X3.2|Sensory:- Sound
+JJ|silent|X3.2- A10-|X3.3|Sensory:- Touch
+JJ|silent|X3.2- A10-|X3.4|Sensory:- Sight
+JJ|silent|X3.2- A10-|X3.5|Sensory:- Smell
+NN1|imputation|Q2.2 G2.1 A2.2/Q2.2|Q2|Speech acts
+NN1|imputation|Q2.2 G2.1 A2.2/Q2.2|Q2.1|Speech etc:- Communicative
+NN1|imputation|Q2.2 G2.1 A2.2/Q2.2|Q2.2|Speech acts
+IO|of|Z5|Z5|Grammatical bin
+NN1|parsimony|I1.3-|I1|Money generally
+NN1|parsimony|I1.3-|I1.1|Money: Affluence
+NN1|parsimony|I1.3-|I1.2|Money: Debts
+NN1|parsimony|I1.3-|I1.3|Money: Price
+CST|that|Z5 Z8|Z5|Grammatical bin
+DA|such|Z5 Z8|Z5|Grammatical bin
+JJ|close|N3.3- A4.2+ S5+ S1.1.3+ A6.1+ E2+ W4|N3|Measurement
+JJ|close|N3.3- A4.2+ S5+ S1.1.3+ A6.1+ E2+ W4|N3.1|Measurement: General
+JJ|close|N3.3- A4.2+ S5+ S1.1.3+ A6.1+ E2+ W4|N3.2|Measurement: Size
+JJ|close|N3.3- A4.2+ S5+ S1.1.3+ A6.1+ E2+ W4|N3.3|Measurement: Distance
+JJ|close|N3.3- A4.2+ S5+ S1.1.3+ A6.1+ E2+ W4|N3.4|Measurement: Volume
+JJ|close|N3.3- A4.2+ S5+ S1.1.3+ A6.1+ E2+ W4|N3.5|Measurement: Weight
+JJ|close|N3.3- A4.2+ S5+ S1.1.3+ A6.1+ E2+ W4|N3.6|Measurement: Area
+JJ|close|N3.3- A4.2+ S5+ S1.1.3+ A6.1+ E2+ W4|N3.7|Measurement: Length & height
+JJ|close|N3.3- A4.2+ S5+ S1.1.3+ A6.1+ E2+ W4|N3.8|Measurement: Speed
+NN1@|dealing|A1.1.1 I2.2 I2.1 A9- K5.2 F3/I2.2|A1|GENERAL AND ABSTRACT TERMS
+NN1@|dealing|A1.1.1 I2.2 I2.1 A9- K5.2 F3/I2.2|A1.1.1|General actions, making etc.
+NN1@|dealing|A1.1.1 I2.2 I2.1 A9- K5.2 F3/I2.2|A1.1.2|Damaging and destroying
+NN1@|dealing|A1.1.1 I2.2 I2.1 A9- K5.2 F3/I2.2|A1.2|Suitability
+NN1@|dealing|A1.1.1 I2.2 I2.1 A9- K5.2 F3/I2.2|A1.3|Caution
+NN1@|dealing|A1.1.1 I2.2 I2.1 A9- K5.2 F3/I2.2|A1.4|Chance, luck
+NN1@|dealing|A1.1.1 I2.2 I2.1 A9- K5.2 F3/I2.2|A1.5|Use
+NN1@|dealing|A1.1.1 I2.2 I2.1 A9- K5.2 F3/I2.2|A1.5.1|Using
+NN1@|dealing|A1.1.1 I2.2 I2.1 A9- K5.2 F3/I2.2|A1.5.2|Usefulness
+NN1@|dealing|A1.1.1 I2.2 I2.1 A9- K5.2 F3/I2.2|A1.6|Physical/mental
+NN1@|dealing|A1.1.1 I2.2 I2.1 A9- K5.2 F3/I2.2|A1.7|Constraint
+NN1@|dealing|A1.1.1 I2.2 I2.1 A9- K5.2 F3/I2.2|A1.8|Inclusion/Exclusion
+NN1@|dealing|A1.1.1 I2.2 I2.1 A9- K5.2 F3/I2.2|A1.9|Avoiding
+NN1@|dealing|A1.1.1 I2.2 I2.1 A9- K5.2 F3/I2.2|A10|Open/closed; Hiding/Hidden; Finding; Showing
+NN1@|dealing|A1.1.1 I2.2 I2.1 A9- K5.2 F3/I2.2|A11|Importance
+NN1@|dealing|A1.1.1 I2.2 I2.1 A9- K5.2 F3/I2.2|A11.1|Importance: Important
+NN1@|dealing|A1.1.1 I2.2 I2.1 A9- K5.2 F3/I2.2|A11.2|Importance: Noticeability
+NN1@|dealing|A1.1.1 I2.2 I2.1 A9- K5.2 F3/I2.2|A12|Easy/difficult
+NN1@|dealing|A1.1.1 I2.2 I2.1 A9- K5.2 F3/I2.2|A13|Degree
+NN1@|dealing|A1.1.1 I2.2 I2.1 A9- K5.2 F3/I2.2|A13.1|Degree: Non-specific
+NN1@|dealing|A1.1.1 I2.2 I2.1 A9- K5.2 F3/I2.2|A13.2|Degree: Maximizers
+NN1@|dealing|A1.1.1 I2.2 I2.1 A9- K5.2 F3/I2.2|A13.3|Degree: Boosters
+NN1@|dealing|A1.1.1 I2.2 I2.1 A9- K5.2 F3/I2.2|A13.4|Degree: Approximators
+NN1@|dealing|A1.1.1 I2.2 I2.1 A9- K5.2 F3/I2.2|A13.5|Degree: Compromisers
+NN1@|dealing|A1.1.1 I2.2 I2.1 A9- K5.2 F3/I2.2|A13.6|Degree: Diminishers
+NN1@|dealing|A1.1.1 I2.2 I2.1 A9- K5.2 F3/I2.2|A13.7|Degree: Minimizers
+NN1@|dealing|A1.1.1 I2.2 I2.1 A9- K5.2 F3/I2.2|A14|Exclusivizers/particularizers
+NN1@|dealing|A1.1.1 I2.2 I2.1 A9- K5.2 F3/I2.2|A15|Safety/Danger
+VVD|implied|Q1.1|Q1|LINGUISTIC ACTIONS, STATES AND PROCESSES; COMMUNICATION
+VVD|implied|Q1.1|Q1.1|LINGUISTIC ACTIONS, STATES AND PROCESSES; COMMUNICATION
+VVD|implied|Q1.1|Q1.2|Paper documents and writing
+VVD|implied|Q1.1|Q1.3|Telecommunications
+MC|Three|N6+[i2.2.1 A13.3[i2.2.1 N1 T1.2 T3|N6|Frequency etc.
+NNT2|times|N6+[i2.2.2 A13.3[i2.2.2 T1 T1.2 T1.3 T1.1.2 N6 N1|N6|Frequency etc.
+NP1|Della|Z99|Z9|Trash can
+NP1|Della|Z99|Z99|Unmatched
+VVD|counted|N2 A11.1+|N2|Mathematics
+PPH1|it|Z8|Z8|Pronouns etc.
+MC1|One|N1 T3 T1.2|N1|Numbers
+NNU1|dollar|I1|I1|Money generally
+NNU1|dollar|I1|I1.1|Money: Affluence
+NNU1|dollar|I1|I1.2|Money: Debts
+NNU1|dollar|I1|I1.3|Money: Price
+CC|and|Z5|Z5|Grammatical bin
+NN1|eighty-|N1 T3 N3.2+ N5+ A11.1+|N1|Numbers
+MC|seven|N1 T3 T1.2|N1|Numbers
+NNU2|cents|I1|I1|Money generally
+NNU2|cents|I1|I1.1|Money: Affluence
+NNU2|cents|I1|I1.2|Money: Debts
+NNU2|cents|I1|I1.3|Money: Price
+CC|And|Z5|Z5|Grammatical bin
+AT|the|Z5|Z5|Grammatical bin
+MD|next|T1.1.3[i3.2.1 N4|T1|Time
+MD|next|T1.1.3[i3.2.1 N4|T1.1|Time: General
+MD|next|T1.1.3[i3.2.1 N4|T1.1.1|Time: General: Past
+MD|next|T1.1.3[i3.2.1 N4|T1.1.2|Time: General: Present; simultaneous
+MD|next|T1.1.3[i3.2.1 N4|T1.1.3|Time: General: Future
+MD|next|T1.1.3[i3.2.1 N4|T1.2|Time: Momentary
+MD|next|T1.1.3[i3.2.1 N4|T1.3|Time: Period
+NNT1|day|T1.1.3[i3.2.2 T1.3|T1|Time
+NNT1|day|T1.1.3[i3.2.2 T1.3|T1.1|Time: General
+NNT1|day|T1.1.3[i3.2.2 T1.3|T1.1.1|Time: General: Past
+NNT1|day|T1.1.3[i3.2.2 T1.3|T1.1.2|Time: General: Present; simultaneous
+NNT1|day|T1.1.3[i3.2.2 T1.3|T1.1.3|Time: General: Future
+NNT1|day|T1.1.3[i3.2.2 T1.3|T1.2|Time: Momentary
+NNT1|day|T1.1.3[i3.2.2 T1.3|T1.3|Time: Period
+VM|would|A7+|A7|Definite (+ modals)
+VBI|be|A3+ Z5|A3|Being
+NNT1|Christmas|S9/T1.3|S9|Religion and the supernatural
+EX|There|Z5|Z5|Grammatical bin
+VBDZ|was|A3+ Z5|A3|Being
+RR|clearly|A7+ A11.2+ A12+|A7|Definite (+ modals)
+PN1|nothing|Z6/Z8|Z6|Negative
+TO|to|Z5|Z5|Grammatical bin
+VDI|do|A1.1.1 G2.2- X9.2+ E3- N5+ G2.1% Z5|A1|GENERAL AND ABSTRACT TERMS
+VDI|do|A1.1.1 G2.2- X9.2+ E3- N5+ G2.1% Z5|A1.1.1|General actions, making etc.
+VDI|do|A1.1.1 G2.2- X9.2+ E3- N5+ G2.1% Z5|A1.1.2|Damaging and destroying
+VDI|do|A1.1.1 G2.2- X9.2+ E3- N5+ G2.1% Z5|A1.2|Suitability
+VDI|do|A1.1.1 G2.2- X9.2+ E3- N5+ G2.1% Z5|A1.3|Caution
+VDI|do|A1.1.1 G2.2- X9.2+ E3- N5+ G2.1% Z5|A1.4|Chance, luck
+VDI|do|A1.1.1 G2.2- X9.2+ E3- N5+ G2.1% Z5|A1.5|Use
+VDI|do|A1.1.1 G2.2- X9.2+ E3- N5+ G2.1% Z5|A1.5.1|Using
+VDI|do|A1.1.1 G2.2- X9.2+ E3- N5+ G2.1% Z5|A1.5.2|Usefulness
+VDI|do|A1.1.1 G2.2- X9.2+ E3- N5+ G2.1% Z5|A1.6|Physical/mental
+VDI|do|A1.1.1 G2.2- X9.2+ E3- N5+ G2.1% Z5|A1.7|Constraint
+VDI|do|A1.1.1 G2.2- X9.2+ E3- N5+ G2.1% Z5|A1.8|Inclusion/Exclusion
+VDI|do|A1.1.1 G2.2- X9.2+ E3- N5+ G2.1% Z5|A1.9|Avoiding
+VDI|do|A1.1.1 G2.2- X9.2+ E3- N5+ G2.1% Z5|A10|Open/closed; Hiding/Hidden; Finding; Showing
+VDI|do|A1.1.1 G2.2- X9.2+ E3- N5+ G2.1% Z5|A11|Importance
+VDI|do|A1.1.1 G2.2- X9.2+ E3- N5+ G2.1% Z5|A11.1|Importance: Important
+VDI|do|A1.1.1 G2.2- X9.2+ E3- N5+ G2.1% Z5|A11.2|Importance: Noticeability
+VDI|do|A1.1.1 G2.2- X9.2+ E3- N5+ G2.1% Z5|A12|Easy/difficult
+VDI|do|A1.1.1 G2.2- X9.2+ E3- N5+ G2.1% Z5|A13|Degree
+VDI|do|A1.1.1 G2.2- X9.2+ E3- N5+ G2.1% Z5|A13.1|Degree: Non-specific
+VDI|do|A1.1.1 G2.2- X9.2+ E3- N5+ G2.1% Z5|A13.2|Degree: Maximizers
+VDI|do|A1.1.1 G2.2- X9.2+ E3- N5+ G2.1% Z5|A13.3|Degree: Boosters
+VDI|do|A1.1.1 G2.2- X9.2+ E3- N5+ G2.1% Z5|A13.4|Degree: Approximators
+VDI|do|A1.1.1 G2.2- X9.2+ E3- N5+ G2.1% Z5|A13.5|Degree: Compromisers
+VDI|do|A1.1.1 G2.2- X9.2+ E3- N5+ G2.1% Z5|A13.6|Degree: Diminishers
+VDI|do|A1.1.1 G2.2- X9.2+ E3- N5+ G2.1% Z5|A13.7|Degree: Minimizers
+VDI|do|A1.1.1 G2.2- X9.2+ E3- N5+ G2.1% Z5|A14|Exclusivizers/particularizers
+VDI|do|A1.1.1 G2.2- X9.2+ E3- N5+ G2.1% Z5|A15|Safety/Danger
+CCB|but|Z5|Z5|Grammatical bin
+VV0@|flop|M1|M1|Moving, coming and going
+RP|down|Z5 M6 N4 N5-- E4.1- S7.1- N3.1 Q1.2 O1.1 L2 Z1mf F1/B1 A1.1.1|Z5|Grammatical bin
+II|on|Z5|Z5|Grammatical bin
+AT|the|Z5|Z5|Grammatical bin
+JJ|shabby|O4.2-|O4|Physical attributes
+JJ|shabby|O4.2-|O4.1|General appearance and physical properties
+JJ|shabby|O4.2-|O4.2|Judgement of appearance (pretty etc.)
+JJ|shabby|O4.2-|O4.3|Colour and colour patterns
+JJ|shabby|O4.2-|O4.4|Shape
+JJ|shabby|O4.2-|O4.5|Texture
+JJ|shabby|O4.2-|O4.6|Temperature
+JJ|little|N3.2- T3- N3.7- N3.3- T1.3- A11.1-|N3|Measurement
+JJ|little|N3.2- T3- N3.7- N3.3- T1.3- A11.1-|N3.1|Measurement: General
+JJ|little|N3.2- T3- N3.7- N3.3- T1.3- A11.1-|N3.2|Measurement: Size
+JJ|little|N3.2- T3- N3.7- N3.3- T1.3- A11.1-|N3.3|Measurement: Distance
+JJ|little|N3.2- T3- N3.7- N3.3- T1.3- A11.1-|N3.4|Measurement: Volume
+JJ|little|N3.2- T3- N3.7- N3.3- T1.3- A11.1-|N3.5|Measurement: Weight
+JJ|little|N3.2- T3- N3.7- N3.3- T1.3- A11.1-|N3.6|Measurement: Area
+JJ|little|N3.2- T3- N3.7- N3.3- T1.3- A11.1-|N3.7|Measurement: Length & height
+JJ|little|N3.2- T3- N3.7- N3.3- T1.3- A11.1-|N3.8|Measurement: Speed
+NN1|couch|H5|H5|Furniture and household fittings
+CC|and|Z5|Z5|Grammatical bin
+NN1|howl|E4.1- Q2.2 X3.2|E4|Happy/sad
+NN1|howl|E4.1- Q2.2 X3.2|E4.1|Happy/sad: Happy
+NN1|howl|E4.1- Q2.2 X3.2|E4.2|Happy/sad: Contentment
+RR|So|Z5 A13.3|Z5|Grammatical bin
+NP1|Della|Z99|Z9|Trash can
+NP1|Della|Z99|Z99|Unmatched
+VDD|did|A1.1.1 G2.2- X9.2+ E3- G2.1% Z5|A1|GENERAL AND ABSTRACT TERMS
+VDD|did|A1.1.1 G2.2- X9.2+ E3- G2.1% Z5|A1.1.1|General actions, making etc.
+VDD|did|A1.1.1 G2.2- X9.2+ E3- G2.1% Z5|A1.1.2|Damaging and destroying
+VDD|did|A1.1.1 G2.2- X9.2+ E3- G2.1% Z5|A1.2|Suitability
+VDD|did|A1.1.1 G2.2- X9.2+ E3- G2.1% Z5|A1.3|Caution
+VDD|did|A1.1.1 G2.2- X9.2+ E3- G2.1% Z5|A1.4|Chance, luck
+VDD|did|A1.1.1 G2.2- X9.2+ E3- G2.1% Z5|A1.5|Use
+VDD|did|A1.1.1 G2.2- X9.2+ E3- G2.1% Z5|A1.5.1|Using
+VDD|did|A1.1.1 G2.2- X9.2+ E3- G2.1% Z5|A1.5.2|Usefulness
+VDD|did|A1.1.1 G2.2- X9.2+ E3- G2.1% Z5|A1.6|Physical/mental
+VDD|did|A1.1.1 G2.2- X9.2+ E3- G2.1% Z5|A1.7|Constraint
+VDD|did|A1.1.1 G2.2- X9.2+ E3- G2.1% Z5|A1.8|Inclusion/Exclusion
+VDD|did|A1.1.1 G2.2- X9.2+ E3- G2.1% Z5|A1.9|Avoiding
+VDD|did|A1.1.1 G2.2- X9.2+ E3- G2.1% Z5|A10|Open/closed; Hiding/Hidden; Finding; Showing
+VDD|did|A1.1.1 G2.2- X9.2+ E3- G2.1% Z5|A11|Importance
+VDD|did|A1.1.1 G2.2- X9.2+ E3- G2.1% Z5|A11.1|Importance: Important
+VDD|did|A1.1.1 G2.2- X9.2+ E3- G2.1% Z5|A11.2|Importance: Noticeability
+VDD|did|A1.1.1 G2.2- X9.2+ E3- G2.1% Z5|A12|Easy/difficult
+VDD|did|A1.1.1 G2.2- X9.2+ E3- G2.1% Z5|A13|Degree
+VDD|did|A1.1.1 G2.2- X9.2+ E3- G2.1% Z5|A13.1|Degree: Non-specific
+VDD|did|A1.1.1 G2.2- X9.2+ E3- G2.1% Z5|A13.2|Degree: Maximizers
+VDD|did|A1.1.1 G2.2- X9.2+ E3- G2.1% Z5|A13.3|Degree: Boosters
+VDD|did|A1.1.1 G2.2- X9.2+ E3- G2.1% Z5|A13.4|Degree: Approximators
+VDD|did|A1.1.1 G2.2- X9.2+ E3- G2.1% Z5|A13.5|Degree: Compromisers
+VDD|did|A1.1.1 G2.2- X9.2+ E3- G2.1% Z5|A13.6|Degree: Diminishers
+VDD|did|A1.1.1 G2.2- X9.2+ E3- G2.1% Z5|A13.7|Degree: Minimizers
+VDD|did|A1.1.1 G2.2- X9.2+ E3- G2.1% Z5|A14|Exclusivizers/particularizers
+VDD|did|A1.1.1 G2.2- X9.2+ E3- G2.1% Z5|A15|Safety/Danger
+PPH1|it|Z8|Z8|Pronouns etc.
+DDQ|Which|Z5 Z8|Z5|Grammatical bin
+VVZ|instigates|T2+|T2|Time: Beginning and ending
+AT|the|Z5|Z5|Grammatical bin
+JJ|moral|G2.2+ E1|G2|Crime, law and order
+JJ|moral|G2.2+ E1|G2.1|Crime, law and order: Law and order
+JJ|moral|G2.2+ E1|G2.2|General ethics
+NN1|reflection|X3.4 Y1/M2 A2.2/A10+ X2.1|X3|Sensory
+NN1|reflection|X3.4 Y1/M2 A2.2/A10+ X2.1|X3.1|Sensory:- Taste
+NN1|reflection|X3.4 Y1/M2 A2.2/A10+ X2.1|X3.2|Sensory:- Sound
+NN1|reflection|X3.4 Y1/M2 A2.2/A10+ X2.1|X3.3|Sensory:- Touch
+NN1|reflection|X3.4 Y1/M2 A2.2/A10+ X2.1|X3.4|Sensory:- Sight
+NN1|reflection|X3.4 Y1/M2 A2.2/A10+ X2.1|X3.5|Sensory:- Smell
+CST|that|Z5 Z8|Z5|Grammatical bin
+NN1|life|L1+ A3+ T1.3 S1.1.1 A1.1.1 X5.2+ Q4.1 A11.1+++ A5.4+/C1|L1|Life and living things
+VBZ|is|Z5 A3+|Z5|Grammatical bin
+VVN|made|A5.2-[i4.2.1 B4[i4.2.1 N5[i4.2.1 S3.1[i4.2.1 A1.8+[i4.2.1 A1.1.1 A9+ A2.2 S6+ A3+ A9- X9.2+ X6+|A5|Evaluation
+VVN|made|A5.2-[i4.2.1 B4[i4.2.1 N5[i4.2.1 S3.1[i4.2.1 A1.8+[i4.2.1 A1.1.1 A9+ A2.2 S6+ A3+ A9- X9.2+ X6+|A5.1|Evaluation:- Good/bad
+VVN|made|A5.2-[i4.2.1 B4[i4.2.1 N5[i4.2.1 S3.1[i4.2.1 A1.8+[i4.2.1 A1.1.1 A9+ A2.2 S6+ A3+ A9- X9.2+ X6+|A5.2|Evaluation:- True/false
+VVN|made|A5.2-[i4.2.1 B4[i4.2.1 N5[i4.2.1 S3.1[i4.2.1 A1.8+[i4.2.1 A1.1.1 A9+ A2.2 S6+ A3+ A9- X9.2+ X6+|A5.3|Evaluation:- Accuracy
+VVN|made|A5.2-[i4.2.1 B4[i4.2.1 N5[i4.2.1 S3.1[i4.2.1 A1.8+[i4.2.1 A1.1.1 A9+ A2.2 S6+ A3+ A9- X9.2+ X6+|A5.4|Evaluation:- Authenticity
+RP|up|A5.2-[i4.2.2 B4[i4.2.2 N5[i4.2.2 S3.1[i4.2.2 A1.8+[i4.2.2|A5|Evaluation
+RP|up|A5.2-[i4.2.2 B4[i4.2.2 N5[i4.2.2 S3.1[i4.2.2 A1.8+[i4.2.2|A5.1|Evaluation:- Good/bad
+RP|up|A5.2-[i4.2.2 B4[i4.2.2 N5[i4.2.2 S3.1[i4.2.2 A1.8+[i4.2.2|A5.2|Evaluation:- True/false
+RP|up|A5.2-[i4.2.2 B4[i4.2.2 N5[i4.2.2 S3.1[i4.2.2 A1.8+[i4.2.2|A5.3|Evaluation:- Accuracy
+RP|up|A5.2-[i4.2.2 B4[i4.2.2 N5[i4.2.2 S3.1[i4.2.2 A1.8+[i4.2.2|A5.4|Evaluation:- Authenticity
+IO|of|Z5|Z5|Grammatical bin
+NN2|sobs|E4.1-|E4|Happy/sad
+NN2|sobs|E4.1-|E4.1|Happy/sad: Happy
+NN2|sobs|E4.1-|E4.2|Happy/sad: Contentment
+VVZ|sniffles|B1 B2-|B1|Anatomy and physiology
+CC|and|Z5|Z5|Grammatical bin
+NN2|smiles|E4.1+|E4|Happy/sad
+NN2|smiles|E4.1+|E4.1|Happy/sad: Happy
+NN2|smiles|E4.1+|E4.2|Happy/sad: Contentment
+IW|with|Z5|Z5|Grammatical bin
+NN2@|sniffles|B2-|B2|Health and disease
+VVG|predominating|N5++ A11.1+ A11.2+|N5|Quantities
+VVG|predominating|N5++ A11.1+ A11.2+|N5.1|Entirety; maximum
+VVG|predominating|N5++ A11.1+ A11.2+|N5.2|Exceeding; waste
+CS|While|Z5|Z5|Grammatical bin
+AT|the|Z5|Z5|Grammatical bin
+NN1|mistress|S7.1+/S2.1f S3.2/S2.1f P1/S2.1f|S7|Power relationship
+NN1|mistress|S7.1+/S2.1f S3.2/S2.1f P1/S2.1f|S7.1|Power, organizing
+NN1|mistress|S7.1+/S2.1f S3.2/S2.1f P1/S2.1f|S7.2|Respect
+NN1|mistress|S7.1+/S2.1f S3.2/S2.1f P1/S2.1f|S7.3|Competition
+NN1|mistress|S7.1+/S2.1f S3.2/S2.1f P1/S2.1f|S7.4|Permission
+IO|of|Z5|Z5|Grammatical bin
+AT|the|Z5|Z5|Grammatical bin
+NN1|home|H4/H1c M6|H4|Residence
+VBZ|is|A3+ Z5|A3|Being
+RR|gradually|T2++|T2|Time: Beginning and ending
+JJ|subsiding|N5-/A2.1 W3|N5|Quantities
+JJ|subsiding|N5-/A2.1 W3|N5.1|Entirety; maximum
+JJ|subsiding|N5-/A2.1 W3|N5.2|Exceeding; waste
+II|from|Z5|Z5|Grammatical bin
+AT|the|Z5|Z5|Grammatical bin
+MD|first|N4|N4|Linear order
+NN1|stage|T1.2 N5.1- H2/K4 K4 A4.1|T1|Time
+NN1|stage|T1.2 N5.1- H2/K4 K4 A4.1|T1.1|Time: General
+NN1|stage|T1.2 N5.1- H2/K4 K4 A4.1|T1.1.1|Time: General: Past
+NN1|stage|T1.2 N5.1- H2/K4 K4 A4.1|T1.1.2|Time: General: Present; simultaneous
+NN1|stage|T1.2 N5.1- H2/K4 K4 A4.1|T1.1.3|Time: General: Future
+NN1|stage|T1.2 N5.1- H2/K4 K4 A4.1|T1.2|Time: Momentary
+NN1|stage|T1.2 N5.1- H2/K4 K4 A4.1|T1.3|Time: Period
+II|to|Z5|Z5|Grammatical bin
+AT|the|Z5|Z5|Grammatical bin
+NNT1|second|T1.3 T1.2|T1|Time
+NNT1|second|T1.3 T1.2|T1.1|Time: General
+NNT1|second|T1.3 T1.2|T1.1.1|Time: General: Past
+NNT1|second|T1.3 T1.2|T1.1.2|Time: General: Present; simultaneous
+NNT1|second|T1.3 T1.2|T1.1.3|Time: General: Future
+NNT1|second|T1.3 T1.2|T1.2|Time: Momentary
+NNT1|second|T1.3 T1.2|T1.3|Time: Period
+VV0|take|X2.4[i5.3.1 X3.4[i5.3.1 A9+ T1.3 C1 A1.1.1 M2 S7.1- A2.1+ X2.4 S6+ S7.4+ N3 P1 M1 X2.5+ F1@ F2@ Q1.2@ B3@|X2|Mental actions and processes
+VV0|take|X2.4[i5.3.1 X3.4[i5.3.1 A9+ T1.3 C1 A1.1.1 M2 S7.1- A2.1+ X2.4 S6+ S7.4+ N3 P1 M1 X2.5+ F1@ F2@ Q1.2@ B3@|X2.1|Thought, belief
+VV0|take|X2.4[i5.3.1 X3.4[i5.3.1 A9+ T1.3 C1 A1.1.1 M2 S7.1- A2.1+ X2.4 S6+ S7.4+ N3 P1 M1 X2.5+ F1@ F2@ Q1.2@ B3@|X2.2|Knowledge
+VV0|take|X2.4[i5.3.1 X3.4[i5.3.1 A9+ T1.3 C1 A1.1.1 M2 S7.1- A2.1+ X2.4 S6+ S7.4+ N3 P1 M1 X2.5+ F1@ F2@ Q1.2@ B3@|X2.3|Learn
+VV0|take|X2.4[i5.3.1 X3.4[i5.3.1 A9+ T1.3 C1 A1.1.1 M2 S7.1- A2.1+ X2.4 S6+ S7.4+ N3 P1 M1 X2.5+ F1@ F2@ Q1.2@ B3@|X2.4|Investigate, examine, test, search
+VV0|take|X2.4[i5.3.1 X3.4[i5.3.1 A9+ T1.3 C1 A1.1.1 M2 S7.1- A2.1+ X2.4 S6+ S7.4+ N3 P1 M1 X2.5+ F1@ F2@ Q1.2@ B3@|X2.5|Understand
+VV0|take|X2.4[i5.3.1 X3.4[i5.3.1 A9+ T1.3 C1 A1.1.1 M2 S7.1- A2.1+ X2.4 S6+ S7.4+ N3 P1 M1 X2.5+ F1@ F2@ Q1.2@ B3@|X2.6|Expect
+AT1|a|X2.4[i5.3.2 X3.4[i5.3.2 Z5|X2|Mental actions and processes
+AT1|a|X2.4[i5.3.2 X3.4[i5.3.2 Z5|X2.1|Thought, belief
+AT1|a|X2.4[i5.3.2 X3.4[i5.3.2 Z5|X2.2|Knowledge
+AT1|a|X2.4[i5.3.2 X3.4[i5.3.2 Z5|X2.3|Learn
+AT1|a|X2.4[i5.3.2 X3.4[i5.3.2 Z5|X2.4|Investigate, examine, test, search
+AT1|a|X2.4[i5.3.2 X3.4[i5.3.2 Z5|X2.5|Understand
+AT1|a|X2.4[i5.3.2 X3.4[i5.3.2 Z5|X2.6|Expect
+NN1|look|X2.4[i5.3.3 X3.4[i5.3.3 A8 X3.4 X2.4 O4.1 X3.4[i6.2.1 X2.4[i6.2.1 X2.1[i6.2.1|X2|Mental actions and processes
+NN1|look|X2.4[i5.3.3 X3.4[i5.3.3 A8 X3.4 X2.4 O4.1 X3.4[i6.2.1 X2.4[i6.2.1 X2.1[i6.2.1|X2.1|Thought, belief
+NN1|look|X2.4[i5.3.3 X3.4[i5.3.3 A8 X3.4 X2.4 O4.1 X3.4[i6.2.1 X2.4[i6.2.1 X2.1[i6.2.1|X2.2|Knowledge
+NN1|look|X2.4[i5.3.3 X3.4[i5.3.3 A8 X3.4 X2.4 O4.1 X3.4[i6.2.1 X2.4[i6.2.1 X2.1[i6.2.1|X2.3|Learn
+NN1|look|X2.4[i5.3.3 X3.4[i5.3.3 A8 X3.4 X2.4 O4.1 X3.4[i6.2.1 X2.4[i6.2.1 X2.1[i6.2.1|X2.4|Investigate, examine, test, search
+NN1|look|X2.4[i5.3.3 X3.4[i5.3.3 A8 X3.4 X2.4 O4.1 X3.4[i6.2.1 X2.4[i6.2.1 X2.1[i6.2.1|X2.5|Understand
+NN1|look|X2.4[i5.3.3 X3.4[i5.3.3 A8 X3.4 X2.4 O4.1 X3.4[i6.2.1 X2.4[i6.2.1 X2.1[i6.2.1|X2.6|Expect
+II|at|Z5 X3.4[i6.2.2 X2.4[i6.2.2 X2.1[i6.2.2|Z5|Grammatical bin
+AT|the|Z5|Z5|Grammatical bin
+NN1|home|H4/H1c M6|H4|Residence
+AT1|A|Z5|Z5|Grammatical bin
+JJ|furnished|H5|H5|Furniture and household fittings
+NN1|flat|H1/H4 M3 W3 B5% O4.4%|H1|Architecture and kinds of houses and buildings
+II|at|Z5|Z5|Grammatical bin
+NNU|$8|Z99|Z9|Trash can
+NNU|$8|Z99|Z99|Unmatched
+II|per|Z5|Z5|Grammatical bin
+NNT1|week|T1.3|T1|Time
+NNT1|week|T1.3|T1.1|Time: General
+NNT1|week|T1.3|T1.1.1|Time: General: Past
+NNT1|week|T1.3|T1.1.2|Time: General: Present; simultaneous
+NNT1|week|T1.3|T1.1.3|Time: General: Future
+NNT1|week|T1.3|T1.2|Time: Momentary
+NNT1|week|T1.3|T1.3|Time: Period
+PPH1|It|Z8|Z8|Pronouns etc.
+VDD|did|Z5 A1.1.1 G2.2- X9.2+ E3- G2.1%|Z5|Grammatical bin
+XX|not|Z6|Z6|Negative
+RR|exactly|A4.2+ A5.3+|A4|Classification
+RR|exactly|A4.2+ A5.3+|A4.1|Generally kinds, groups, examples
+RR|exactly|A4.2+ A5.3+|A4.2|Particular/general; detail
+VVI|beggar|I1.1-/S2mf|I1|Money generally
+VVI|beggar|I1.1-/S2mf|I1.1|Money: Affluence
+VVI|beggar|I1.1-/S2mf|I1.2|Money: Debts
+VVI|beggar|I1.1-/S2mf|I1.3|Money: Price
+NN1|description|Q2.2 A4.1|Q2|Speech acts
+NN1|description|Q2.2 A4.1|Q2.1|Speech etc:- Communicative
+NN1|description|Q2.2 A4.1|Q2.2|Speech acts
+CCB|but|Z5|Z5|Grammatical bin
+PPH1|it|Z8|Z8|Pronouns etc.
+RR|certainly|A7+|A7|Definite (+ modals)
+VHD|had|A9+ Z5 A2.2 S4|A9|Getting and giving; possession
+DD1|that|Z5 Z8|Z5|Grammatical bin
+NN1|word|Q3 Q2.1 S9@|Q3|Language, speech and grammar
+II|on|X2.4[i7.3.1 Z5|X2|Mental actions and processes
+II|on|X2.4[i7.3.1 Z5|X2.1|Thought, belief
+II|on|X2.4[i7.3.1 Z5|X2.2|Knowledge
+II|on|X2.4[i7.3.1 Z5|X2.3|Learn
+II|on|X2.4[i7.3.1 Z5|X2.4|Investigate, examine, test, search
+II|on|X2.4[i7.3.1 Z5|X2.5|Understand
+II|on|X2.4[i7.3.1 Z5|X2.6|Expect
+AT|the|X2.4[i7.3.2 Z5|X2|Mental actions and processes
+AT|the|X2.4[i7.3.2 Z5|X2.1|Thought, belief
+AT|the|X2.4[i7.3.2 Z5|X2.2|Knowledge
+AT|the|X2.4[i7.3.2 Z5|X2.3|Learn
+AT|the|X2.4[i7.3.2 Z5|X2.4|Investigate, examine, test, search
+AT|the|X2.4[i7.3.2 Z5|X2.5|Understand
+AT|the|X2.4[i7.3.2 Z5|X2.6|Expect
+NN1|lookout|X2.4[i7.3.3 X2.4[i8.2.1|X2|Mental actions and processes
+NN1|lookout|X2.4[i7.3.3 X2.4[i8.2.1|X2.1|Thought, belief
+NN1|lookout|X2.4[i7.3.3 X2.4[i8.2.1|X2.2|Knowledge
+NN1|lookout|X2.4[i7.3.3 X2.4[i8.2.1|X2.3|Learn
+NN1|lookout|X2.4[i7.3.3 X2.4[i8.2.1|X2.4|Investigate, examine, test, search
+NN1|lookout|X2.4[i7.3.3 X2.4[i8.2.1|X2.5|Understand
+NN1|lookout|X2.4[i7.3.3 X2.4[i8.2.1|X2.6|Expect
+IF|for|Z5 X2.4[i8.2.2|Z5|Grammatical bin
+AT|the|Z5|Z5|Grammatical bin
+NN1|mendicancy|S6+ I1.1- Q2.2 Q1.2 G2.1-|S6|Obligation and necessity
+NN1|squad|G3/S5+c S5+c|G3|Warfare, defence and the army; weapons
+II|In|Z5|Z5|Grammatical bin
+AT|the|Z5|Z5|Grammatical bin
+NN1|vestibule|H2|H2|Parts of buildings
+RL|below|M6|M6|Location and direction
+VBDZ|was|A3+ Z5|A3|Being
+AT1|a|Z5|Z5|Grammatical bin
+NN1|letter-box|Q1.2 O2 O4.4 Q4.3 G2.1 H2 K5.1 B5/K5.1@ A4.1@ A1.1.1 E3- Q2.2 S1.1.1 Q1.3 X7+ S9% Q3 M3/H2 Q1.2/O2|Q1|LINGUISTIC ACTIONS, STATES AND PROCESSES; COMMUNICATION
+NN1|letter-box|Q1.2 O2 O4.4 Q4.3 G2.1 H2 K5.1 B5/K5.1@ A4.1@ A1.1.1 E3- Q2.2 S1.1.1 Q1.3 X7+ S9% Q3 M3/H2 Q1.2/O2|Q1.1|LINGUISTIC ACTIONS, STATES AND PROCESSES; COMMUNICATION
+NN1|letter-box|Q1.2 O2 O4.4 Q4.3 G2.1 H2 K5.1 B5/K5.1@ A4.1@ A1.1.1 E3- Q2.2 S1.1.1 Q1.3 X7+ S9% Q3 M3/H2 Q1.2/O2|Q1.2|Paper documents and writing
+NN1|letter-box|Q1.2 O2 O4.4 Q4.3 G2.1 H2 K5.1 B5/K5.1@ A4.1@ A1.1.1 E3- Q2.2 S1.1.1 Q1.3 X7+ S9% Q3 M3/H2 Q1.2/O2|Q1.3|Telecommunications
+II|into|Z5|Z5|Grammatical bin
+DDQ|which|Z8 Z5|Z8|Pronouns etc.
+AT|no|Z6|Z6|Negative
+NN1|letter|Q1.2 Q3|Q1|LINGUISTIC ACTIONS, STATES AND PROCESSES; COMMUNICATION
+NN1|letter|Q1.2 Q3|Q1.1|LINGUISTIC ACTIONS, STATES AND PROCESSES; COMMUNICATION
+NN1|letter|Q1.2 Q3|Q1.2|Paper documents and writing
+NN1|letter|Q1.2 Q3|Q1.3|Telecommunications
+VM|would|A7+|A7|Definite (+ modals)
+VVI|go|M1 A2.1+ A1.1.1 A9- A1.8+ Q2.1 N6+ I2.2 A1.1.2 T2- S3.2 A6.3+ B2-/X1% B1%|M1|Moving, coming and going
+CC|and|Z5|Z5|Grammatical bin
+AT1|an|Z5|Z5|Grammatical bin
+JJ|electric|O3|O3|Electricity and electrical equipment
+NN1|button|B5 O2|B5|Clothes and personal belongings
+II|from|Z5|Z5|Grammatical bin
+DDQ|which|Z8 Z5|Z8|Pronouns etc.
+AT|no|Z6|Z6|Negative
+JJ|mortal|L1- A13.3|L1|Life and living things
+NN1|finger|B1 O4.4|B1|Anatomy and physiology
+VM|could|A7+|A7|Definite (+ modals)
+VVI|coax|Q2.2 S8+|Q2|Speech acts
+VVI|coax|Q2.2 S8+|Q2.1|Speech etc:- Communicative
+VVI|coax|Q2.2 S8+|Q2.2|Speech acts
+AT1|a|Z5|Z5|Grammatical bin
+NN1|ring|Q1.3 X3.2 A8 B5 O4.4 O2 O3 S5+c M7/K5.1%|Q1|LINGUISTIC ACTIONS, STATES AND PROCESSES; COMMUNICATION
+NN1|ring|Q1.3 X3.2 A8 B5 O4.4 O2 O3 S5+c M7/K5.1%|Q1.1|LINGUISTIC ACTIONS, STATES AND PROCESSES; COMMUNICATION
+NN1|ring|Q1.3 X3.2 A8 B5 O4.4 O2 O3 S5+c M7/K5.1%|Q1.2|Paper documents and writing
+NN1|ring|Q1.3 X3.2 A8 B5 O4.4 O2 O3 S5+c M7/K5.1%|Q1.3|Telecommunications
+RR|Also|N5++|N5|Quantities
+RR|Also|N5++|N5.1|Entirety; maximum
+RR|Also|N5++|N5.2|Exceeding; waste
+VVG|appertaining|A2.2|A2|Affect
+VVG|appertaining|A2.2|A2.1|Affect:- Modify, change
+VVG|appertaining|A2.2|A2.2|Affect:- Cause/Connected
+NN1|thereunto|M6 A2.2|M6|Location and direction
+VBDZ|was|A3+ Z5|A3|Being
+AT1|a|Z5|Z5|Grammatical bin
+NN1|card|Q1.2 O1.1 I1.1/O2/Q1.1 K5.2|Q1|LINGUISTIC ACTIONS, STATES AND PROCESSES; COMMUNICATION
+NN1|card|Q1.2 O1.1 I1.1/O2/Q1.1 K5.2|Q1.1|LINGUISTIC ACTIONS, STATES AND PROCESSES; COMMUNICATION
+NN1|card|Q1.2 O1.1 I1.1/O2/Q1.1 K5.2|Q1.2|Paper documents and writing
+NN1|card|Q1.2 O1.1 I1.1/O2/Q1.1 K5.2|Q1.3|Telecommunications
+VVG|bearing|M2 E2+ M6 B1@|M2|Putting, taking, pulling, pushing, transporting &c.
+AT|the|Z5|Z5|Grammatical bin
+NN1|name|Q2.2|Q2|Speech acts
+NN1|name|Q2.2|Q2.1|Speech etc:- Communicative
+NN1|name|Q2.2|Q2.2|Speech acts
+NNB|Mr.|Z1m[i10.3.1 S2.2m Z1m[i9.2.1|Z1|Personal names
+NP1|James|Z1m[i10.3.2 Z1m Z1m[i9.2.2 Z1mf[i11.2.1 Z3c[i11.2.1 Z1mf[i12.3.1 Z3c[i12.3.1|Z1|Personal names
+NP1|Dillingham|Z1m[i10.3.3 Z1mf[i11.2.2 Z3c[i11.2.2 Z1mf[i12.3.2 Z3c[i12.3.2 Z1mf[i13.2.1 Z3c[i13.2.1|Z1|Personal names
+NP1|Young|T3- Z1mf[i12.3.3 Z3c[i12.3.3 Z1mf[i13.2.2 Z3c[i13.2.2|T3|Time: Old, new and young; age
+AT|The|Z5|Z5|Grammatical bin
+NP1|Dillingham|Z99|Z9|Trash can
+NP1|Dillingham|Z99|Z99|Unmatched
+VHD|had|Z5 A9+ A2.2 S4|Z5|Grammatical bin
+VBN|been|Z5 A3+|Z5|Grammatical bin
+VVN|flung|M2|M2|Putting, taking, pulling, pushing, transporting &c.
+II|to|Z5|Z5|Grammatical bin
+AT|the|Z5|Z5|Grammatical bin
+NN1|breeze|W4 A12+|W4|Weather
+II|during|Z5|Z5|Grammatical bin
+AT1|a|Z5|Z5|Grammatical bin
+DA|former|T2- N4|T2|Time: Beginning and ending
+NN1|period|T1.3 B1 Q3 P1/T1.3|T1|Time
+NN1|period|T1.3 B1 Q3 P1/T1.3|T1.1|Time: General
+NN1|period|T1.3 B1 Q3 P1/T1.3|T1.1.1|Time: General: Past
+NN1|period|T1.3 B1 Q3 P1/T1.3|T1.1.2|Time: General: Present; simultaneous
+NN1|period|T1.3 B1 Q3 P1/T1.3|T1.1.3|Time: General: Future
+NN1|period|T1.3 B1 Q3 P1/T1.3|T1.2|Time: Momentary
+NN1|period|T1.3 B1 Q3 P1/T1.3|T1.3|Time: Period
+IO|of|Z5|Z5|Grammatical bin
+NN1|prosperity|I1.1+|I1|Money generally
+NN1|prosperity|I1.1+|I1.1|Money: Affluence
+NN1|prosperity|I1.1+|I1.2|Money: Debts
+NN1|prosperity|I1.1+|I1.3|Money: Price
+CS|when|Z5|Z5|Grammatical bin
+APPGE|its|Z8|Z8|Pronouns etc.
+NN1|possessor|A9+/S2mf|A9|Getting and giving; possession
+VBDZ|was|Z5 A3+|Z5|Grammatical bin
+VBG|being|Z5 A3+|Z5|Grammatical bin
+VVN|paid|I1.2 A9- I1.1/I3.1|I1|Money generally
+VVN|paid|I1.2 A9- I1.1/I3.1|I1.1|Money: Affluence
+VVN|paid|I1.2 A9- I1.1/I3.1|I1.2|Money: Debts
+VVN|paid|I1.2 A9- I1.1/I3.1|I1.3|Money: Price
+NNU|$30|Z99|Z9|Trash can
+NNU|$30|Z99|Z99|Unmatched
+II|per|Z5|Z5|Grammatical bin
+NNT1|week|T1.3|T1|Time
+NNT1|week|T1.3|T1.1|Time: General
+NNT1|week|T1.3|T1.1.1|Time: General: Past
+NNT1|week|T1.3|T1.1.2|Time: General: Present; simultaneous
+NNT1|week|T1.3|T1.1.3|Time: General: Future
+NNT1|week|T1.3|T1.2|Time: Momentary
+NNT1|week|T1.3|T1.3|Time: Period
+RT|Now|T1.1.2 Z4|T1|Time
+RT|Now|T1.1.2 Z4|T1.1|Time: General
+RT|Now|T1.1.2 Z4|T1.1.1|Time: General: Past
+RT|Now|T1.1.2 Z4|T1.1.2|Time: General: Present; simultaneous
+RT|Now|T1.1.2 Z4|T1.1.3|Time: General: Future
+RT|Now|T1.1.2 Z4|T1.2|Time: Momentary
+RT|Now|T1.1.2 Z4|T1.3|Time: Period
+CS|when|Z5|Z5|Grammatical bin
+AT|the|Z5|Z5|Grammatical bin
+NN1|income|I1.1|I1|Money generally
+NN1|income|I1.1|I1.1|Money: Affluence
+NN1|income|I1.1|I1.2|Money: Debts
+NN1|income|I1.1|I1.3|Money: Price
+VBDZ|was|Z5 A3+|Z5|Grammatical bin
+VVN|shrunk|N3.2-/A2.1 E2-@|N3|Measurement
+VVN|shrunk|N3.2-/A2.1 E2-@|N3.1|Measurement: General
+VVN|shrunk|N3.2-/A2.1 E2-@|N3.2|Measurement: Size
+VVN|shrunk|N3.2-/A2.1 E2-@|N3.3|Measurement: Distance
+VVN|shrunk|N3.2-/A2.1 E2-@|N3.4|Measurement: Volume
+VVN|shrunk|N3.2-/A2.1 E2-@|N3.5|Measurement: Weight
+VVN|shrunk|N3.2-/A2.1 E2-@|N3.6|Measurement: Area
+VVN|shrunk|N3.2-/A2.1 E2-@|N3.7|Measurement: Length & height
+VVN|shrunk|N3.2-/A2.1 E2-@|N3.8|Measurement: Speed
+II|to|Z5|Z5|Grammatical bin
+NNU|$20|Z99|Z9|Trash can
+NNU|$20|Z99|Z99|Unmatched
+CS|though|Z5|Z5|Grammatical bin
+PPHS2|they|Z8mfn|Z8|Pronouns etc.
+VBDR|were|Z5 A3+|Z5|Grammatical bin
+VVG|thinking|X2.1|X2|Mental actions and processes
+VVG|thinking|X2.1|X2.1|Thought, belief
+VVG|thinking|X2.1|X2.2|Knowledge
+VVG|thinking|X2.1|X2.3|Learn
+VVG|thinking|X2.1|X2.4|Investigate, examine, test, search
+VVG|thinking|X2.1|X2.5|Understand
+VVG|thinking|X2.1|X2.6|Expect
+RR|seriously|A13.3 Z4 E4.1-|A1|GENERAL AND ABSTRACT TERMS
+RR|seriously|A13.3 Z4 E4.1-|A1.1.1|General actions, making etc.
+RR|seriously|A13.3 Z4 E4.1-|A1.1.2|Damaging and destroying
+RR|seriously|A13.3 Z4 E4.1-|A1.2|Suitability
+RR|seriously|A13.3 Z4 E4.1-|A1.3|Caution
+RR|seriously|A13.3 Z4 E4.1-|A1.4|Chance, luck
+RR|seriously|A13.3 Z4 E4.1-|A1.5|Use
+RR|seriously|A13.3 Z4 E4.1-|A1.5.1|Using
+RR|seriously|A13.3 Z4 E4.1-|A1.5.2|Usefulness
+RR|seriously|A13.3 Z4 E4.1-|A1.6|Physical/mental
+RR|seriously|A13.3 Z4 E4.1-|A1.7|Constraint
+RR|seriously|A13.3 Z4 E4.1-|A1.8|Inclusion/Exclusion
+RR|seriously|A13.3 Z4 E4.1-|A1.9|Avoiding
+RR|seriously|A13.3 Z4 E4.1-|A10|Open/closed; Hiding/Hidden; Finding; Showing
+RR|seriously|A13.3 Z4 E4.1-|A11|Importance
+RR|seriously|A13.3 Z4 E4.1-|A11.1|Importance: Important
+RR|seriously|A13.3 Z4 E4.1-|A11.2|Importance: Noticeability
+RR|seriously|A13.3 Z4 E4.1-|A12|Easy/difficult
+RR|seriously|A13.3 Z4 E4.1-|A13|Degree
+RR|seriously|A13.3 Z4 E4.1-|A13.1|Degree: Non-specific
+RR|seriously|A13.3 Z4 E4.1-|A13.2|Degree: Maximizers
+RR|seriously|A13.3 Z4 E4.1-|A13.3|Degree: Boosters
+RR|seriously|A13.3 Z4 E4.1-|A13.4|Degree: Approximators
+RR|seriously|A13.3 Z4 E4.1-|A13.5|Degree: Compromisers
+RR|seriously|A13.3 Z4 E4.1-|A13.6|Degree: Diminishers
+RR|seriously|A13.3 Z4 E4.1-|A13.7|Degree: Minimizers
+RR|seriously|A13.3 Z4 E4.1-|A14|Exclusivizers/particularizers
+RR|seriously|A13.3 Z4 E4.1-|A15|Safety/Danger
+IO|of|Z5|Z5|Grammatical bin
+VVG|contracting|Q1.2/I2.1 N3.2-/A2.1 B2-|Q1|LINGUISTIC ACTIONS, STATES AND PROCESSES; COMMUNICATION
+VVG|contracting|Q1.2/I2.1 N3.2-/A2.1 B2-|Q1.1|LINGUISTIC ACTIONS, STATES AND PROCESSES; COMMUNICATION
+VVG|contracting|Q1.2/I2.1 N3.2-/A2.1 B2-|Q1.2|Paper documents and writing
+VVG|contracting|Q1.2/I2.1 N3.2-/A2.1 B2-|Q1.3|Telecommunications
+II|to|Z5|Z5|Grammatical bin
+AT1|a|Z5|Z5|Grammatical bin
+JJ|modest|N3.2- S1.2.3-|N3|Measurement
+JJ|modest|N3.2- S1.2.3-|N3.1|Measurement: General
+JJ|modest|N3.2- S1.2.3-|N3.2|Measurement: Size
+JJ|modest|N3.2- S1.2.3-|N3.3|Measurement: Distance
+JJ|modest|N3.2- S1.2.3-|N3.4|Measurement: Volume
+JJ|modest|N3.2- S1.2.3-|N3.5|Measurement: Weight
+JJ|modest|N3.2- S1.2.3-|N3.6|Measurement: Area
+JJ|modest|N3.2- S1.2.3-|N3.7|Measurement: Length & height
+JJ|modest|N3.2- S1.2.3-|N3.8|Measurement: Speed
+CC|and|Z5|Z5|Grammatical bin
+JJ|unassuming|S1.2.3-|S1|SOCIAL ACTIONS, STATES AND PROCESSES
+JJ|unassuming|S1.2.3-|S1.1|SOCIAL ACTIONS, STATES AND PROCESSES
+JJ|unassuming|S1.2.3-|S1.1.1|SOCIAL ACTIONS, STATES AND PROCESSES
+JJ|unassuming|S1.2.3-|S1.1.2|Reciprocity
+JJ|unassuming|S1.2.3-|S1.1.3|Participation
+JJ|unassuming|S1.2.3-|S1.1.4|Deserve etc.
+JJ|unassuming|S1.2.3-|S1.2|Personality traits
+JJ|unassuming|S1.2.3-|S1.2.1|Approachability and Friendliness
+JJ|unassuming|S1.2.3-|S1.2.2|Avarice
+JJ|unassuming|S1.2.3-|S1.2.3|Egoism
+JJ|unassuming|S1.2.3-|S1.2.4|Politeness
+JJ|unassuming|S1.2.3-|S1.2.5|Toughness; strong/weak
+JJ|unassuming|S1.2.3-|S1.2.6|Sensible
+NP1|D.|Z5|Z5|Grammatical bin
+CCB|But|Z5|Z5|Grammatical bin
+RRQV|whenever|Z5|Z5|Grammatical bin
+NNB|Mr.|Z1m[i15.3.1 S2.2m Z1m[i14.2.1|Z1|Personal names
+NP1|James|Z1m[i15.3.2 Z1m Z1m[i14.2.2 Z1mf[i16.2.1 Z3c[i16.2.1 Z1mf[i17.3.1 Z3c[i17.3.1|Z1|Personal names
+NP1|Dillingham|Z1m[i15.3.3 Z1mf[i16.2.2 Z3c[i16.2.2 Z1mf[i17.3.2 Z3c[i17.3.2 Z1mf[i18.2.1 Z3c[i18.2.1|Z1|Personal names
+NP1|Young|T3- Z1mf[i17.3.3 Z3c[i17.3.3 Z1mf[i18.2.2 Z3c[i18.2.2|T3|Time: Old, new and young; age
+VVD|came|M1[i19.2.1 M1 N3.1 A2.2 A3+ X2.1 A9+ S4 N4 S3.2|M1|Moving, coming and going
+RL|home|M1[i19.2.2 H4 M6|M1|Moving, coming and going
+CC|and|Z5|Z5|Grammatical bin
+VVD|reached|M1 N3.3 Q2.1 X9.2+|M1|Moving, coming and going
+APPGE|his|Z8m|Z8|Pronouns etc.
+NN1|flat|H1/H4 M3 W3 B5% O4.4%|H1|Architecture and kinds of houses and buildings
+RL|above|M6 A5.1++|M6|Location and direction
+PPHS1|he|Z8m|Z8|Pronouns etc.
+VBDZ|was|Z5 A3+|Z5|Grammatical bin
+VVN|called|Q2.2 S1.1.1 Q1.3 S9%|Q2|Speech acts
+VVN|called|Q2.2 S1.1.1 Q1.3 S9%|Q2.1|Speech etc:- Communicative
+VVN|called|Q2.2 S1.1.1 Q1.3 S9%|Q2.2|Speech acts
+NP1|Jim|Z1m|Z1|Personal names
+CC|and|Z5|Z5|Grammatical bin
+RR|greatly|A13.3 A5.1+|A1|GENERAL AND ABSTRACT TERMS
+RR|greatly|A13.3 A5.1+|A1.1.1|General actions, making etc.
+RR|greatly|A13.3 A5.1+|A1.1.2|Damaging and destroying
+RR|greatly|A13.3 A5.1+|A1.2|Suitability
+RR|greatly|A13.3 A5.1+|A1.3|Caution
+RR|greatly|A13.3 A5.1+|A1.4|Chance, luck
+RR|greatly|A13.3 A5.1+|A1.5|Use
+RR|greatly|A13.3 A5.1+|A1.5.1|Using
+RR|greatly|A13.3 A5.1+|A1.5.2|Usefulness
+RR|greatly|A13.3 A5.1+|A1.6|Physical/mental
+RR|greatly|A13.3 A5.1+|A1.7|Constraint
+RR|greatly|A13.3 A5.1+|A1.8|Inclusion/Exclusion
+RR|greatly|A13.3 A5.1+|A1.9|Avoiding
+RR|greatly|A13.3 A5.1+|A10|Open/closed; Hiding/Hidden; Finding; Showing
+RR|greatly|A13.3 A5.1+|A11|Importance
+RR|greatly|A13.3 A5.1+|A11.1|Importance: Important
+RR|greatly|A13.3 A5.1+|A11.2|Importance: Noticeability
+RR|greatly|A13.3 A5.1+|A12|Easy/difficult
+RR|greatly|A13.3 A5.1+|A13|Degree
+RR|greatly|A13.3 A5.1+|A13.1|Degree: Non-specific
+RR|greatly|A13.3 A5.1+|A13.2|Degree: Maximizers
+RR|greatly|A13.3 A5.1+|A13.3|Degree: Boosters
+RR|greatly|A13.3 A5.1+|A13.4|Degree: Approximators
+RR|greatly|A13.3 A5.1+|A13.5|Degree: Compromisers
+RR|greatly|A13.3 A5.1+|A13.6|Degree: Diminishers
+RR|greatly|A13.3 A5.1+|A13.7|Degree: Minimizers
+RR|greatly|A13.3 A5.1+|A14|Exclusivizers/particularizers
+RR|greatly|A13.3 A5.1+|A15|Safety/Danger
+VVN|hugged|S3.2|S3|Relationship
+VVN|hugged|S3.2|S3.1|Relationship: General
+VVN|hugged|S3.2|S3.2|Relationship: Intimate/sexual
+II|by|Z5|Z5|Grammatical bin
+NNB|Mrs.|Z1f[i23.3.1 Z1m[i21.3.1 Z1m[i20.2.1 Z1f[i22.2.1|Z1|Personal names
+NP1|James|Z1f[i23.3.2 Z1m Z1m[i21.3.2 Z1m[i20.2.2 Z1f[i22.2.2 Z1mf[i24.2.1 Z3c[i24.2.1 Z1mf[i25.3.1 Z3c[i25.3.1|Z1|Personal names
+NP1|Dillingham|Z1f[i23.3.3 Z1m[i21.3.3 Z1mf[i24.2.2 Z3c[i24.2.2 Z1mf[i25.3.2 Z3c[i25.3.2 Z1mf[i26.2.1 Z3c[i26.2.1|Z1|Personal names
+NP1|Young|T3- Z1mf[i25.3.3 Z3c[i25.3.3 Z1mf[i26.2.2 Z3c[i26.2.2|T3|Time: Old, new and young; age
+RR|already|T1.1.1|T1|Time
+RR|already|T1.1.1|T1.1|Time: General
+RR|already|T1.1.1|T1.1.1|Time: General: Past
+RR|already|T1.1.1|T1.1.2|Time: General: Present; simultaneous
+RR|already|T1.1.1|T1.1.3|Time: General: Future
+RR|already|T1.1.1|T1.2|Time: Momentary
+RR|already|T1.1.1|T1.3|Time: Period
+VVN|introduced|S1.1.1 T2+|S1|SOCIAL ACTIONS, STATES AND PROCESSES
+VVN|introduced|S1.1.1 T2+|S1.1|SOCIAL ACTIONS, STATES AND PROCESSES
+VVN|introduced|S1.1.1 T2+|S1.1.1|SOCIAL ACTIONS, STATES AND PROCESSES
+VVN|introduced|S1.1.1 T2+|S1.1.2|Reciprocity
+VVN|introduced|S1.1.1 T2+|S1.1.3|Participation
+VVN|introduced|S1.1.1 T2+|S1.1.4|Deserve etc.
+VVN|introduced|S1.1.1 T2+|S1.2|Personality traits
+VVN|introduced|S1.1.1 T2+|S1.2.1|Approachability and Friendliness
+VVN|introduced|S1.1.1 T2+|S1.2.2|Avarice
+VVN|introduced|S1.1.1 T2+|S1.2.3|Egoism
+VVN|introduced|S1.1.1 T2+|S1.2.4|Politeness
+VVN|introduced|S1.1.1 T2+|S1.2.5|Toughness; strong/weak
+VVN|introduced|S1.1.1 T2+|S1.2.6|Sensible
+II|to|Z5|Z5|Grammatical bin
+PPY|you|Z8mf|Z8|Pronouns etc.
+CSA|as|Z5|Z5|Grammatical bin
+NP1|Della|Z99|Z9|Trash can
+NP1|Della|Z99|Z99|Unmatched
+DDQ|Which|Z5 Z8|Z5|Grammatical bin
+VBZ|is|A3+ Z5|A3|Being
+DB|all|N5.1+|N5|Quantities
+DB|all|N5.1+|N5.1|Entirety; maximum
+DB|all|N5.1+|N5.2|Exceeding; waste
+RG|very|A13.3|A1|GENERAL AND ABSTRACT TERMS
+RG|very|A13.3|A1.1.1|General actions, making etc.
+RG|very|A13.3|A1.1.2|Damaging and destroying
+RG|very|A13.3|A1.2|Suitability
+RG|very|A13.3|A1.3|Caution
+RG|very|A13.3|A1.4|Chance, luck
+RG|very|A13.3|A1.5|Use
+RG|very|A13.3|A1.5.1|Using
+RG|very|A13.3|A1.5.2|Usefulness
+RG|very|A13.3|A1.6|Physical/mental
+RG|very|A13.3|A1.7|Constraint
+RG|very|A13.3|A1.8|Inclusion/Exclusion
+RG|very|A13.3|A1.9|Avoiding
+RG|very|A13.3|A10|Open/closed; Hiding/Hidden; Finding; Showing
+RG|very|A13.3|A11|Importance
+RG|very|A13.3|A11.1|Importance: Important
+RG|very|A13.3|A11.2|Importance: Noticeability
+RG|very|A13.3|A12|Easy/difficult
+RG|very|A13.3|A13|Degree
+RG|very|A13.3|A13.1|Degree: Non-specific
+RG|very|A13.3|A13.2|Degree: Maximizers
+RG|very|A13.3|A13.3|Degree: Boosters
+RG|very|A13.3|A13.4|Degree: Approximators
+RG|very|A13.3|A13.5|Degree: Compromisers
+RG|very|A13.3|A13.6|Degree: Diminishers
+RG|very|A13.3|A13.7|Degree: Minimizers
+RG|very|A13.3|A14|Exclusivizers/particularizers
+RG|very|A13.3|A15|Safety/Danger
+JJ|good|A5.1+ G2.2+ O4.2+ A1.5.2+ N3.2+|A5|Evaluation
+JJ|good|A5.1+ G2.2+ O4.2+ A1.5.2+ N3.2+|A5.1|Evaluation:- Good/bad
+JJ|good|A5.1+ G2.2+ O4.2+ A1.5.2+ N3.2+|A5.2|Evaluation:- True/false
+JJ|good|A5.1+ G2.2+ O4.2+ A1.5.2+ N3.2+|A5.3|Evaluation:- Accuracy
+JJ|good|A5.1+ G2.2+ O4.2+ A1.5.2+ N3.2+|A5.4|Evaluation:- Authenticity
+NP1|Della|Z99|Z9|Trash can
+NP1|Della|Z99|Z99|Unmatched
+VVD|finished|T2- A1.5.1/N5.1+ A1.1.1 X9.2-|T2|Time: Beginning and ending
+APPGE|her|Z8f|Z8|Pronouns etc.
+NN1|cry|E4.1- Q2.2|E4|Happy/sad
+NN1|cry|E4.1- Q2.2|E4.1|Happy/sad: Happy
+NN1|cry|E4.1- Q2.2|E4.2|Happy/sad: Contentment
+CC|and|Z5|Z5|Grammatical bin
+VVN|attended|A1.1.1[i27.2.1 S1.1.3+ X5.1+|A1|GENERAL AND ABSTRACT TERMS
+VVN|attended|A1.1.1[i27.2.1 S1.1.3+ X5.1+|A1.1.1|General actions, making etc.
+VVN|attended|A1.1.1[i27.2.1 S1.1.3+ X5.1+|A1.1.2|Damaging and destroying
+VVN|attended|A1.1.1[i27.2.1 S1.1.3+ X5.1+|A1.2|Suitability
+VVN|attended|A1.1.1[i27.2.1 S1.1.3+ X5.1+|A1.3|Caution
+VVN|attended|A1.1.1[i27.2.1 S1.1.3+ X5.1+|A1.4|Chance, luck
+VVN|attended|A1.1.1[i27.2.1 S1.1.3+ X5.1+|A1.5|Use
+VVN|attended|A1.1.1[i27.2.1 S1.1.3+ X5.1+|A1.5.1|Using
+VVN|attended|A1.1.1[i27.2.1 S1.1.3+ X5.1+|A1.5.2|Usefulness
+VVN|attended|A1.1.1[i27.2.1 S1.1.3+ X5.1+|A1.6|Physical/mental
+VVN|attended|A1.1.1[i27.2.1 S1.1.3+ X5.1+|A1.7|Constraint
+VVN|attended|A1.1.1[i27.2.1 S1.1.3+ X5.1+|A1.8|Inclusion/Exclusion
+VVN|attended|A1.1.1[i27.2.1 S1.1.3+ X5.1+|A1.9|Avoiding
+VVN|attended|A1.1.1[i27.2.1 S1.1.3+ X5.1+|A10|Open/closed; Hiding/Hidden; Finding; Showing
+VVN|attended|A1.1.1[i27.2.1 S1.1.3+ X5.1+|A11|Importance
+VVN|attended|A1.1.1[i27.2.1 S1.1.3+ X5.1+|A11.1|Importance: Important
+VVN|attended|A1.1.1[i27.2.1 S1.1.3+ X5.1+|A11.2|Importance: Noticeability
+VVN|attended|A1.1.1[i27.2.1 S1.1.3+ X5.1+|A12|Easy/difficult
+VVN|attended|A1.1.1[i27.2.1 S1.1.3+ X5.1+|A13|Degree
+VVN|attended|A1.1.1[i27.2.1 S1.1.3+ X5.1+|A13.1|Degree: Non-specific
+VVN|attended|A1.1.1[i27.2.1 S1.1.3+ X5.1+|A13.2|Degree: Maximizers
+VVN|attended|A1.1.1[i27.2.1 S1.1.3+ X5.1+|A13.3|Degree: Boosters
+VVN|attended|A1.1.1[i27.2.1 S1.1.3+ X5.1+|A13.4|Degree: Approximators
+VVN|attended|A1.1.1[i27.2.1 S1.1.3+ X5.1+|A13.5|Degree: Compromisers
+VVN|attended|A1.1.1[i27.2.1 S1.1.3+ X5.1+|A13.6|Degree: Diminishers
+VVN|attended|A1.1.1[i27.2.1 S1.1.3+ X5.1+|A13.7|Degree: Minimizers
+VVN|attended|A1.1.1[i27.2.1 S1.1.3+ X5.1+|A14|Exclusivizers/particularizers
+VVN|attended|A1.1.1[i27.2.1 S1.1.3+ X5.1+|A15|Safety/Danger
+II|to|A1.1.1[i27.2.2 Z5|A1|GENERAL AND ABSTRACT TERMS
+II|to|A1.1.1[i27.2.2 Z5|A1.1.1|General actions, making etc.
+II|to|A1.1.1[i27.2.2 Z5|A1.1.2|Damaging and destroying
+II|to|A1.1.1[i27.2.2 Z5|A1.2|Suitability
+II|to|A1.1.1[i27.2.2 Z5|A1.3|Caution
+II|to|A1.1.1[i27.2.2 Z5|A1.4|Chance, luck
+II|to|A1.1.1[i27.2.2 Z5|A1.5|Use
+II|to|A1.1.1[i27.2.2 Z5|A1.5.1|Using
+II|to|A1.1.1[i27.2.2 Z5|A1.5.2|Usefulness
+II|to|A1.1.1[i27.2.2 Z5|A1.6|Physical/mental
+II|to|A1.1.1[i27.2.2 Z5|A1.7|Constraint
+II|to|A1.1.1[i27.2.2 Z5|A1.8|Inclusion/Exclusion
+II|to|A1.1.1[i27.2.2 Z5|A1.9|Avoiding
+II|to|A1.1.1[i27.2.2 Z5|A10|Open/closed; Hiding/Hidden; Finding; Showing
+II|to|A1.1.1[i27.2.2 Z5|A11|Importance
+II|to|A1.1.1[i27.2.2 Z5|A11.1|Importance: Important
+II|to|A1.1.1[i27.2.2 Z5|A11.2|Importance: Noticeability
+II|to|A1.1.1[i27.2.2 Z5|A12|Easy/difficult
+II|to|A1.1.1[i27.2.2 Z5|A13|Degree
+II|to|A1.1.1[i27.2.2 Z5|A13.1|Degree: Non-specific
+II|to|A1.1.1[i27.2.2 Z5|A13.2|Degree: Maximizers
+II|to|A1.1.1[i27.2.2 Z5|A13.3|Degree: Boosters
+II|to|A1.1.1[i27.2.2 Z5|A13.4|Degree: Approximators
+II|to|A1.1.1[i27.2.2 Z5|A13.5|Degree: Compromisers
+II|to|A1.1.1[i27.2.2 Z5|A13.6|Degree: Diminishers
+II|to|A1.1.1[i27.2.2 Z5|A13.7|Degree: Minimizers
+II|to|A1.1.1[i27.2.2 Z5|A14|Exclusivizers/particularizers
+II|to|A1.1.1[i27.2.2 Z5|A15|Safety/Danger
+APPGE|her|Z8f|Z8|Pronouns etc.
+NN2|cheeks|B1 S1.2.4-|B1|Anatomy and physiology
+IW|with|Z5|Z5|Grammatical bin
+AT|the|Z5|Z5|Grammatical bin
+NN1|powder|O1.1 B4 G3|O1|Substances and materials generally
+NN1|powder|O1.1 B4 G3|O1.1|Substances and materials generally: Solid
+NN1|powder|O1.1 B4 G3|O1.2|Substances and materials generally: Liquid
+NN1|powder|O1.1 B4 G3|O1.3|Substances and materials generally: Gas
+NN1|rag|O2 Q4.2 E4.1+|O2|Objects generally
+PPHS1|She|Z8f|Z8|Pronouns etc.
+VVD|stood|M6 M2 M8 T2++ N3 A3+ X2.1 A7 G1.2 S8+ S7.4+ I2.2 S1.2.5+|M6|Location and direction
+II|by|Z5|Z5|Grammatical bin
+AT|the|Z5|Z5|Grammatical bin
+NN1|window|H2 T1.3|H2|Parts of buildings
+CC|and|Z5|Z5|Grammatical bin
+VVD|looked|X3.4+[i29.2.1 X3.4+/S2mf[i29.2.1 X2.6+[i29.2.1 A8 X3.4 X2.4 X7+ X3.4[i28.2.1 X2.4[i28.2.1 X2.1[i28.2.1|X3|Sensory
+VVD|looked|X3.4+[i29.2.1 X3.4+/S2mf[i29.2.1 X2.6+[i29.2.1 A8 X3.4 X2.4 X7+ X3.4[i28.2.1 X2.4[i28.2.1 X2.1[i28.2.1|X3.1|Sensory:- Taste
+VVD|looked|X3.4+[i29.2.1 X3.4+/S2mf[i29.2.1 X2.6+[i29.2.1 A8 X3.4 X2.4 X7+ X3.4[i28.2.1 X2.4[i28.2.1 X2.1[i28.2.1|X3.2|Sensory:- Sound
+VVD|looked|X3.4+[i29.2.1 X3.4+/S2mf[i29.2.1 X2.6+[i29.2.1 A8 X3.4 X2.4 X7+ X3.4[i28.2.1 X2.4[i28.2.1 X2.1[i28.2.1|X3.3|Sensory:- Touch
+VVD|looked|X3.4+[i29.2.1 X3.4+/S2mf[i29.2.1 X2.6+[i29.2.1 A8 X3.4 X2.4 X7+ X3.4[i28.2.1 X2.4[i28.2.1 X2.1[i28.2.1|X3.4|Sensory:- Sight
+VVD|looked|X3.4+[i29.2.1 X3.4+/S2mf[i29.2.1 X2.6+[i29.2.1 A8 X3.4 X2.4 X7+ X3.4[i28.2.1 X2.4[i28.2.1 X2.1[i28.2.1|X3.5|Sensory:- Smell
+RP|out|X3.4+/S2mf[i29.2.2 X2.6+[i29.2.2 X3.4+[i29.2.2 M6|X3|Sensory
+RP|out|X3.4+/S2mf[i29.2.2 X2.6+[i29.2.2 X3.4+[i29.2.2 M6|X3.1|Sensory:- Taste
+RP|out|X3.4+/S2mf[i29.2.2 X2.6+[i29.2.2 X3.4+[i29.2.2 M6|X3.2|Sensory:- Sound
+RP|out|X3.4+/S2mf[i29.2.2 X2.6+[i29.2.2 X3.4+[i29.2.2 M6|X3.3|Sensory:- Touch
+RP|out|X3.4+/S2mf[i29.2.2 X2.6+[i29.2.2 X3.4+[i29.2.2 M6|X3.4|Sensory:- Sight
+RP|out|X3.4+/S2mf[i29.2.2 X2.6+[i29.2.2 X3.4+[i29.2.2 M6|X3.5|Sensory:- Smell
+RR|dully|X5.2- O4.3 W2 W4 X3.2 N5-|X5|Attention
+RR|dully|X5.2- O4.3 W2 W4 X3.2 N5-|X5.1|Attention
+RR|dully|X5.2- O4.3 W2 W4 X3.2 N5-|X5.2|Interest/boredom/excited/energetic
+II|at|Z5 X3.4[i28.2.2 X2.4[i28.2.2 X2.1[i28.2.2|Z5|Grammatical bin
+AT1|a|Z5|Z5|Grammatical bin
+JJ|gray|O4.3|O4|Physical attributes
+JJ|gray|O4.3|O4.1|General appearance and physical properties
+JJ|gray|O4.3|O4.2|Judgement of appearance (pretty etc.)
+JJ|gray|O4.3|O4.3|Colour and colour patterns
+JJ|gray|O4.3|O4.4|Shape
+JJ|gray|O4.3|O4.5|Texture
+JJ|gray|O4.3|O4.6|Temperature
+NN1|cat|L2 M3|L2|Living creatures generally
+VVG|walking|M1 L2 X9.2+/A12+|M1|Moving, coming and going
+AT1|a|Z5|Z5|Grammatical bin
+JJ|gray|O4.3|O4|Physical attributes
+JJ|gray|O4.3|O4.1|General appearance and physical properties
+JJ|gray|O4.3|O4.2|Judgement of appearance (pretty etc.)
+JJ|gray|O4.3|O4.3|Colour and colour patterns
+JJ|gray|O4.3|O4.4|Shape
+JJ|gray|O4.3|O4.5|Texture
+JJ|gray|O4.3|O4.6|Temperature
+NN1|fence|H2 G2.1-/S2mf A6.1-|H2|Parts of buildings
+II|in|Z5|Z5|Grammatical bin
+AT1|a|Z5|Z5|Grammatical bin
+JJ|gray|O4.3|O4|Physical attributes
+JJ|gray|O4.3|O4.1|General appearance and physical properties
+JJ|gray|O4.3|O4.2|Judgement of appearance (pretty etc.)
+JJ|gray|O4.3|O4.3|Colour and colour patterns
+JJ|gray|O4.3|O4.4|Shape
+JJ|gray|O4.3|O4.5|Texture
+JJ|gray|O4.3|O4.6|Temperature
+NN1|backyard|H3|H3|Areas around or near houses
