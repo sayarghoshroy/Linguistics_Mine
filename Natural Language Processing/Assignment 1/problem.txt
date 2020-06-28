@@ -1,0 +1,29 @@
+   HA (Phrase-structure trees and mm-trees)
+
+
+1. Show the phrase-stucture trees and modifier-modified trees for the
+following English sentences (in case of ambiguity, show for the dominant
+sense.):
+
+    a.  The robot picked the red cube.
+    b.  He saw the red block near the blue pyramid.
+    c.  Put the red block near the blue pyramid on green cylinder.
+    d.  The robot placed the red block near the blue pyramid.
+    e.  He lifted a yellow cylinder balanced on a green cylinder.
+
+
+2.  Give syntactic parse tree & modifier-modified trees for the
+    following sentences:
+
+    a.  Ram called Mohan after eating a mango.
+    b.  Ram called Mohan to eat a mango.
+    c.  Ram asked Mohan for a knife to cut the mango.
+
+    d.  The hunter saw a running lion.
+    e.  The hunter saw a lion running towards him.
+        (Hint: 'running towards him' is called the complement of 'lion':
+                       NP -->   NP   S')
+
+3.  (Optional) Do some selected exercises at the end of Chap. 5 
+    in Bharati et.al (1995). They deal with Hindi. In case,
+    you do not know Hindi, apply them to your mother tongue.
