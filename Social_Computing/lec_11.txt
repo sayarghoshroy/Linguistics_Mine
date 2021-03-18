@@ -1,0 +1,17 @@
+Lecture 11
+
+Lecture by Dr. Niyati Chhaya. Affective content analysis. Affective Computing Research. Affect: experience of a feeling or emotion. Concentric circles of consumer behaviour. Psychology and HCI. People who study this: HCI, multimodal data, personality studies, psychologists, style evaluators and demographic data analysts. Technologies that capture empathy. Focus on computational modelling part. Look at it from the view of language. Also look at bringing in new data, and bringing predictive models.  
+
+Challenges in text and language. Compositionality of emotions of individual words. Negation and modals impact the 'affect' of text, but do not have much sentiment associations themselves. Emotions are subtle, no prosody. (Everyone seems to be talking about prosody)  
+
+- Different degrees of affect. 'hugged' has multiple meanings. Interpret creative uses including sarcasm, irony, humour, metaphor/figurative speech. Other issues include: misspellings, creatively misspelled words, hashtags, abbreviations, emojis and smileys. Whose perspective matters ~ evoked versus perceived versus expressed effect. Affect goes beyond thumbs up and down. Ekman's 6 emotions (Anger, Fear, Disgust, Happiness, Sadness, Surprise). Valence or pleasantness, arousal or the intensity of activity, dominance (pleasure-arousal-dominance). 'Being extremely happy is never more dominating than extreme grief'. Mentioned Darwinian approach and Plutchik's wheel. Takeaway: various affect theories. No right and wrong. Neutrality is not same as having no emotion. Preferences are quite strong. Affect has many manifestations.  
+
+- Affect meets CL. Different textual levels ~ words, chunks, sentences, discourse. Creating lexical resources.  
+
+- Words and valence relations. Adjectives, nouns, verbs (negative and positive). Word-emotion association. 'attack' with fear. How to build such relations? Build questionnaires. Which word is closest to X? Word sets generated, distractors, guides annotators. Association questions. What is 'cry' associated with? NRC emotion lexicon: sense-level (valence and emotion association), word level lexicon (valence + emotion). 'Emolex', 'EmoInt', Multi-lingual resources. Others exist like PERMA, LIWC (SemEval, Senticnet).  
+
+- Are word level associations sufficient? Need context. Same image, different text. BATframe as a Convex optimization context. Lexicon: a dictionary with some mapping range. Affective domain sensitive lexicon. Topic words and affect words. Input as domain corpus. Latent Dirichlet Allocation (LDA). Topic affect tuple extractor. Dependency rules in a context window to identify relevant topics. Create topic word - affect word pairs. Arrive at a PMI. Topic words and affect words used to create the mappings. More on the optimization framework.  
+
+- POS distribution. Extracted tuples automatically which were absent in standard lexica. Domain matters ~ in customer care, bliss associated with service. Standard datasets where we evaluate our output. Lexicon qualities evaluated. Can these features be used for some prediction tasks? Default word embeddings. Aff2Vec.  
+
+- Stopped early.

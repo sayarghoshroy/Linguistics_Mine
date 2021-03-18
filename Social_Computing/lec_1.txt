@@ -1,0 +1,44 @@
+Lecture 1
+
+- Research Course
+- Only 1 Evaluation component: The Project
+
+30 Years of the Web - Tim Berners Lee: The web is a laboratory for understanding the pulse of humanity.
+- Viewing the story of the web so far. Presence of the WWW has changed our way of life.
+- 'Destructive' change in a way
+- Interesting for us in the this class: How could we shape this in the future? Power to redesign the future.
+- How it affects the real world? Digital divide: between people who have access to the internet and the ones who don't - People with or without a formal education background, wealthy or non-wealthy, elite or non-elite
+	- 1.0: Internet and Intranets
+	- 2.0: Social Web
+	- 3.0: Semantic Web
+Trust associated with print: if printed, it must be true. (LaTeX Meme) In social web, many writers and readers (possibility of Hostile Content). Semantic web: not just humans but cyber-creatures such as bots both for generating and consuming the content helping humans as well as other bots. Our focus will be on social web. Look at intersection of soical and semantic web.
+- User Generated Content (UGC)
+
+Questions
+1. What is this mess we are in? Understanding these structures.
+2. Anything good there? Yes.
+3. How do we make good better?
+4. How do we make bad less-bad?
+
+- Nimmi Ma'am jumps in: How good and bad interact? Usage of the characteristics. 'Technology is not neutral'.
+- Exposure to the trans-disciplinary area of Social Computing. Hands-on exploration. Online Social Networks (OSN). Leverage User Generated Data.
+- Computational Social Sciences
+
+- Aspects of social listening, social intelligence, social monitoring
+- What does an anthropologist brings to the table? HCI, User generated content, toxic content (why most toxicity is on Twitter?), Tech bubbles are very powerful, How a router disrupts relationships, Alexa on a dining table
+- Topics: Social Computing, Monitoring, Listening, Intelligence, Societies: Human computing
+- Administrative aspects: 
+	- Class Participation: 20%
+	- 1st: Survey: 20%
+	- 2nd: Outline, Outcome: 10%
+	- 3rd: Mid: 20%
+	- 4th: Final: 20%
+	- 5th: Report and Presentation: 10%
+
+- Class Participation: Reflections and Class Notes.
+
+- Social Web, Social Network: Complex System as a network. Complex systems: society, communication, organizing information and knowledge, biological networks, human brain, ... Network and graph algorithms are of utmost importance
+- Facebook social graph, Connections between political blogs, How humans navigate wikipedia, get an idea of how people connect, citations network, terrorist networks: wiring diagram: network that defines interactions between components. General language for describing a complex system
+- UGC: OSNs serve basic human need. Platforms are different.
+
+- Write your reflections on the videos. Summary, main insights, connect them.

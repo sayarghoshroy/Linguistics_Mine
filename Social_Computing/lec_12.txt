@@ -1,0 +1,19 @@
+Lecture 12
+
+2nd Lecture by Niyati Ma'am. Last class: Introduced basics of affective computing. 
+
+- Computational modelling and its aspects. 
+
+- Emails. Show emotions. More formal. Enron email dataset. 'Frustration' as a key reaction. What are the feelings that we can detect. 
+
+- SOTA statistical approach. Detect formality and politeness levels. The Enron dataset explained. Amazon Mechanical Turk used to annotate for frustration, formality, and politeness. Inter-annotator agreement (kappa). Likert scale. 
+
+- Defining frustration. Coming up with good definitions is difficult, especially for things which are kind of subjective. No point defining a scale for such a thing. Try to understand how people perceive such things. More likely to show X based on how people perceive it. 
+
+- Can we detect frustration in text? Using 55+ features. Framed as a regression task. MSE against 10-fold cross validation. Basic ML models to Deep Learning ones. Which features help predict frustration? Negative correlation between frustration and Formality plus Politeness. 
+
+- GCNN-DCNN for Semi Supervised Affect prediction. Large unlabelled data. RNN and CNN. Leverage both labelled and unlabelled data. (Pre-BERT era). Full architecture explained. 
+
+- Does the autoencoder help? Pre-training and joint learning with two losses. Do the linguistic features help? Going through the Results and ablations. Explain your results properly. Lay out takeaways in layperson terms. What is the model learning? P-value, measure of statistical significance. 
+
+- Language itself is multimodal. Facial expressions matter. 

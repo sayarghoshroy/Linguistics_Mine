@@ -1,0 +1,11 @@
+Lecture 14
+
+Beyond Hate. Mental health, physical discrimination, gender related discrimination. Depression and its related aspects. basically, project Angel. 
+
+- Various dimensions. Sexism, body shaming (prevalent in Online Social Media), depression, bias in language models. Multi-label sexism classification and de-biasing BERT. 
+
+- BERT today. Sentence completion task. Racism and sexism in Language Models. Documents can contain objectionable content. debiasBERT. Architectural overview of the model. De-clustering (forcefully introduce distance). Explicit penalty for biases. Summarization with debiasBERT. 
+
+- Paper on fine-grained multilabel sexism classification discussed. 
+
+- Homework: Are there any other problems where these ideas can be applied? 

@@ -1,0 +1,9 @@
+Lecture 15
+
+On leveraging unlabelled data. Talk on the previous task of sexism classification, body shaming detection. 
+
+- Generate augmented dataset. Semi-supervised approach. Add a few unlabelled samples. Various methods of augmentation. Favor low support labels. Seeking diversity. Combination of methods. 
+
+- Auxiliary tasks. Loss functions. 
+
+- Niyati Ma'am did not present anything new for 50 minutes (the entire class). She kept asking questions. 

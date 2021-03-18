@@ -1,0 +1,19 @@
+Lecture 8
+
+All of January, we tried to discuss more deeper issues. Such as psychology and non-technicsl issues. Old statements: whether social media is a good proxy of the real world or not.
+- Percentage of human population on social media: Around 50%
+ Any social networking platform: Public or Private. Number of platforms and their respective participations.
+- Goal instant social insight. Recognize the social attitudes, emotions leveraging the upcoming content. Provide analytics to make decisions and take actions. 'Wisdom of the masses.' ~ Maybe help us at the level of humanity. Which phone to buy? Look at what real people have to say. Issues at local levels. Can we use that to make a budget?
+- Forget the previous manipulative part. Look at the bright side. Can we monitor the entire social media? Translate that to actionable intelligence.
+- Scope: The information gathering. Top 5: Facebook, YouTube, Instagram, Twitter, LinkedIn. Amount of data generated. An infra to simply listen to Twitter (Not the largest, easiest to monitor)
+- 500,000,000 new Tweets per day * 280 bytes of memory required to store a Tweet = 140 gigabytes of new Tweets each day
+- What about 'Good Morning', 'chai pilo' type posts? Platforms may not make it easy - Facebook, Instagram - Difficult, screws tightened. What kind of conversations do we want to monitor? What people are talking about different News Articles on Twitter. Guided summarization. Retweets, comments: talking about News items: figure out the social signals. Figure out the trending stories, interesting versus non-interesting stories. 360 degree view of a News Article. Instead of searching: get all the stories on one particular item.
+- Name of Britney Spears. In 16 variants. Statistically significant. Short forms. Acronyms. Hashtag segmenting, understanding constituents of semantics.
+- Problem with sarcasm. What if you are an influencer? Spam (Posts, Reviews). Huge rating boost in one night. Recognize all of these problems. Come up with nice solutions. GAN based Spam. The game goes on.
+- Problems with datasets extracted from social media.
+- 14 questions. Intention posts. Intensity of expressions (graded expressions). Emoticons.
+- Opinions. How do you solve these problems?
+- Identifying kinds of noise. Low hanging fruits.
+- Range of content. Interested in opinions (Literal opinions, No secondary meaning). Non-literal stuff: metaphors, sarcasm, oxymorons. Spam.
+- Identifying certain user actions. Indigo flight. End of day, I say: Indigo sucks. That I flew from place X to Y. Reaction by Indigo. Social actions, reactions and relations.
+- Why do things in monolithic ways? Divide and conquer. Confidence of sarcasm detection < Confidence of emoji detection.

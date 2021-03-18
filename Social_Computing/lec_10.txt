@@ -1,0 +1,23 @@
+Lecture 10
+
+Human behaviour. Have been focussing on social media content. Will look into social media strcuture soon. And social intelligence ~ analyse and derive conclusions. Instant social insight. Avoid the spam. Divide and conquer. 
+
+- Sentiment spectrum. Domain matters while looking at misinformation. Non-technical solutions. Pro truth pledge ~ A social solution. Make them understand the ethics of content creation. Sounds good. Doesn't work. Crowdsourcing platforms. People marking things as fake or hostile. Paid or voluntary to authenticate the content. Validate and mark things that come their way. World brain, Socratic brain, Web of Trust. 'Bigpress', 'truthium' ~ blockchain based. Hyderabad: 'factly'. 5 minutes is the time threshold to detect fake news. Detecting it early is the issue. Doing the same for ILs, major challenge. 
+
+- Various aspects including content analysis, network propagation (just by looking at how it is spreading), source analysis (who is writing such things), domain analysis. More evidence, better systems. Example: 'How Hindus are fooled by Nehru's policies?' ~ cause emotional issues, fear, propaganda, unsettle people. Trigger fear or unsettle, immediate connect with actions based in strong emotions. 
+
+- In propagation based methods, we analyse the speed of spread, identifying the user who are enabling the spread. Influencers are not that influential in spreading fake news, the weak ties matter, User profiling and modelling ~ what should you do, where should you go? Model a content creation source such as the handle of a newspaper. Art of detecting fake news. Many people just blindly forward fake news. Idea is that: detection algorithms should do better than human beings - more objective, no emotions. 
+
+- Tone detection: aggressive, unsettling, emotion changer. Sentiment detection. Readability and comprehension (is the person educated enough to be writing news). Stance detection (easy in Indian space, every newspaper is associated with some Political party, so it is a one-time mapping). Bias detection. Agenda or goal of an article. Is there any hidden intention? Does the author want to make us vote for a certain party? Multiple basic tasks to understand the final problem. 
+
+- Discussion in various groups. 
+
+	- Stance detection (detect keywords), metric that defines how sources deliver information such as media bias factor. Graph of individuals, cluster them into various groups. 
+
+	- Look at the past history of the user. Topic modelling and weak supervised learning. Annotate a small amount of data and come up with a semi supervised learning setting. 
+
+	- Sentiment analysis, associate them with individual entities. Historical data analysis from Newspapers. Use information about influencers. 
+
+- Counter Speech to misinformation. Detect the agenda. bi-LSTMs with attentions. GANs are not as popular for text encoding. But gained popularity for these kinds of tasks. Last approach being RL. Fake-o-meter. Bait-o-meter for clickbait. Bizarre-o-meter. Hate-o-meter. Nikhil and Vijaya being the main research students. 
+
+- Most of these territories are unexplored. Now, new disciplines such as trust computations and trust propagation are coming up. 

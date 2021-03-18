@@ -1,0 +1,33 @@
+Lecture 16
+
+Social Network Structures. Information flow through a network. Basic properties of any network (nodes, edges, weights). What characterizes the network structure. Degree distribution, centrality, density, connectivity. various models of social networks. Most popular model of WWW ~ Bowtie model, ER random model, small world model (concepts like diameter community structure), ego network (people centric), scale free network. 
+
+Social relationships ~ strong ties and weak ties. Network structure through user attributes and behaviour. How do we create a new and dynamically created network? How information propagates in a network? Various models deal with information propagation ~ epidemic, fire-fighter, diffusion, etc. Identifying the influencers in a given social network (a central problem for many studies). 
+
+- Network analysis tasks: Link prediction problem. Classification (if two people will be connected or not) ~ Use it to reach various people, marketing. Strategy to connect to multiple people to reach one's goal. Community detection (cluster a network graph into a set of communities, properties of a community such as cohesion, e.g. they all talk about Marathi literature). PageRank, Influence Propagation. This area is more well understood than content analysis. 
+
+- Understanding social relationships. People as nodes and edges as relations (usually but not necessarily). Nodes ~ people, actors. Edges ~ relationship (specific, if 2 actors have been in a movie together), weights ~ relationship strength. Undirected and directed networks, Subnetwork, cliques, Path (series of nodes traversed by following the edges), connectedness, bridges, hubs. 
+
+- Characterizing network structure: Centrality (degree, closeness, betweenness, eigenvector). Exercise 
+
+- Degree: Number of edges a node has. Marker of information spread. 
+
+- Closeness: Average of the lengths of shortest paths from node N to all other nodes. 
+
+- Betweenness: Percentage of shortest paths that include a given node. 
+
+- Eigen Vector: Similar to PageRank. 
+
+- Show how many nodes have each possible degree centrality. Degree distribution bar charts. Density: Number of total edges / Total number of all possible edges. Connectivity: Minimum number of nodes to be removed for the graph to be disconnected. Bowtie model: Consider a single large component with it's in and outdegrees. Tendrils and Tubes have reduced. 
+
+- Erdos Renyi Random Model ~ oldest proposed model, two parameters: n (number of nodes), p (probability of existence of an edge) for generation. 
+
+- Diameter: Longest shortest path in a network. Geodesic (same as shortest path). 
+
+- Community: people in a group interact with each other more frequently. Factors of friends of friends. Clustering coefficient. 
+
+- Small world model ~ start off with a regular lattice. Small world effect. High average clustering coefficient, short average shortest path length, common model among many naturally occurring networks. 
+
+- Ego networks ~ Central node: Ego. Immediate ties: Alters. Having a real world ego network. 
+
+- Scale Free Model: Degree distribution is Power Law. Random network's degree distribution is normal, whereas for a Scale Free, it is like a Zipf curve with a very long tail. Robust (can handle node failures, attacks on hubs). 

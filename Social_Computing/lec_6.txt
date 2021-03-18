@@ -1,0 +1,8 @@
+Lecture 6
+
+- Understand how the society thinks and responds to a particular product.
+- Statement: 'Social media is a good proxy for the real world'. People sharing their 'opinions'. Sort of a hangover from century of the self and the social dilemma.
+- Using social media to understand states, target specific voters. USA, India, Britain. Social commerce.
+- Find signal in the huge noise. Company called Radian6. Acquired by Salesforce. Basic NLP, sentiment modelling. Cannot trust everything that is being said on social media. Some people behave differently.
+- Understanding 'attitudes'. Fast food is seen as evil. McDonalds and Burger King.
+- Public opinion, expert opinion. authorative sources.

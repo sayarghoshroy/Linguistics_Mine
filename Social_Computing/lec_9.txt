@@ -1,0 +1,27 @@
+Lecture 9
+
+Using Teams, you can call people into the classroom. House rules, turn on your camera. Last class, we started looking at content analysis. 
+
+- To understand emotions, perceptions, etc. automatically. Instant social insight. Know the kinds of people, opinions of experts will be given more weight. Source matters. Social media is noisy. Difficult to understand things like sarcasm. Identify fake stuff like fake reviews. Look at opinions and non-opinions. 
+
+- Ultimate goal of social media platforms is user engagement. Divide and conquer such problems. Content analysis is not easy. Modular architecture. 
+
+- Metaphorical data, sarcasm, etc. in social media data. We are not really interested in that. Those problems are difficult. Focus on solving impactful problems. Hate speech, toxic content, etc. Spam: huge wastage of time. 
+
+- 'Intent'; Hyderabad to Bangalore versus Hyderabad Bangalore distance. Clear in these cases. Buying a new electric car, what are my options. 
+
+- Implicit intent. Search engine queries. 'Pizza': Perhaps I want to buy a pizza as opposed to knowing the history of pizza. 
+
+- Spam: Intent is lost. Finding true influencers. Case 1: Following 80, 40 follow me. Case 2: Following 50K, 50K follow me. Following 30, 30K follow me. Have metrics for my number of Tweets. Come up with a 'influence' score. The #followback hashtag. Calculating social influence. Influencer and people in general should carefully choose who they follow. Peer validation. A graph like page rank. 
+
+- Issue of fake following. Steve Martin and Alec Baldwin. AB Foundation. Purchasing Twitter followers. Italian security researchers. Underground economy for Twitter followers. Similar services exist to increase your amazon rating. Who are the true influencers? Find a solution for such a scenario. 
+
+- Modelling action cascades. First circle, choose to do something or ignore. Model this ripple effect. More powerful ripples for truer influencers. How do we model such cascades? Weightages given to the cascades. Rate of increase of followers. Audit the audience. Identify profiles. Can monitor comments, evaluate whether the comments are bot generated or not. Bots do not have profile pictures, vague bios. Monitor conversations as a graph of the root tweet and re-tweets, nested conversations. Genuine conversations would go deeper than bot generated responses. 
+
+- One solution proven effective. Kushal Dave, PhD student at IRE lab. Look at user, neighbourhood, and action propagation. For a particular action, predict reach of each user ~ action graph with particular edge weights. Characterizing the neighbourhood, Nested parameters, theories of diffusion. 
+
+- Dark side of OSN. Dealing with disinformation, misinformation, hate speech, misogyny. Lie travels faster than the truth. The Mark Twain quote. Any information devoid of authenticity is consumability. Previously, if printed, then it is the truth. Opinion columns versus news. Now, cannot really trust the news. Fake news, Barrack Obama was attacked, online for 5 minutes, stock market dipped for no real news. Misinformation is way more than just a nuisance. Hate speech, wounded hearts are hard to heal. Things like sexism, islamophobia. India ~ Elections being fought on WhatsApp. 
+
+- How does the hostile content differ from normal content? LMs. Finding the course. Characterize each entity. How does content propagate? Domain understanding. Tech fake news different from healthcare fake news. Use social science tools on top of DL and NLP. 
+
+- How is evil content generated? Humans. With (sophisticated or otherwise)and without ill intentions (accidentally). And bots with similar characterization. Humans without ill intention is hardest to detect. 'With ill intention' ~ Easier to detect. Bots: Sophisticated plus ill intention is the hardest to detect. 

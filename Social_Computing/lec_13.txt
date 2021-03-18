@@ -1,0 +1,13 @@
+Lecture 13
+
+Topic: Bias. 
+
+- Bias creeps in into all the machine learning models. How do we address such problems? Main source of bias is data. Face recognition: people of colour facing issues. Chatbot became abusive. Automatic soap dispenser: only trained on white people hands. Criminal records. Negative emotions towards a different race. UN took up programs in the 80s to foster cross culture integration. Recent issues in social media: researchers from minority groups facing hostilities. Humans are fundamentally flawed, illogical, emotional. 
+
+- The questions of ethics and bias. Paper from the lab on stereotypical bias removal. Perspective API. Bias sensitive words (BSW). Certain terms attract bias more than others. Think through the problem of (1) How to find the bias sensitive phrases? (2) How do you de-bias? (3) Can bias cause a technical or semantic problem in the research that we are currently involved in? 
+
+- Various discussed idea presented: class imbalance removal. Need to diversify the data. Distinguish between social norm and existing well-written laws. Social norms might protect some powerful person P, but laws are factual and non-discriminative in nature. Implementation of existing laws becomes a system level problem. 
+
+- Remove bias in pre-processing: spokesman to spokesperson. Remove sensitive attributes in postprocessing. Push towards explainable AI systems. 
+
+- What was proposed in the paper? Find BSWs, replace them with the knowledge based generalizations.

@@ -1,0 +1,17 @@
+Lecture 4
+
+Social Computing: The HCI Perspective
+
+- Nimmi Ma'am: How to transfer theoretical understanding in a communicative way
+- Lucy Suchman: Idea of Agency and Assemblage. Example of the 'Gun'. Gun and man together make up something new. Gun HCI: Who has agency? Is gun a neutral technology? Example of Lee Harvey Oswald.
+- HIPPA: Tech affordance, quality of tech: New politics since data became important, cannot ship the data: new security methods to protect the privacy of the health data. Privacy is not the question: power and politics are.
+- Assemblage. Popular belief: Technology induces distance between Doctor and patient, it is more materialistic. Doctors feel closer and more 'inside' the patient. Gambling.
+- What/where is the data? Postcard with data: where was privacy?
+- Is data physical? Offer body part mould to God at a church as an offering (like voodoo).
+- Data mediates. Between two people - through Facebook. Dat ahas a context, country, time and place of origin. Repair technology in India. Data is feral - requires regulation - early India, early days of WiFi access: password required to secure.
+- Data likes to look good. Data lies. Online dating websites.
+- Data storage. Doomsday book. Is the data impermanent or the storage?
+- Data shifts perspective. Data is not proof. Menu is not the meal. Is data human? 'We'll never know where what originates?' - Really?
+- Scratch programming
+- Ushahidi
+- gupshup
